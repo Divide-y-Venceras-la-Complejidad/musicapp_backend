@@ -39,7 +39,6 @@ def executeMusicAlgorithm(music_id, filter_type):
         G = np.loadtxt("archives/topicMatrix.txt")
     else: #by year
         G = np.loadtxt("archives/yearMatrix.txt")
-    
 
     relatedMusicsId = bfs_first_height_max_heap(G, music_id)
 
