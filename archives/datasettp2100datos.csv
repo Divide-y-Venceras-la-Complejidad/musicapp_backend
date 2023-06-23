@@ -1,0 +1,2099 @@
+id;track_name;genre;artist_name;topic;release_date
+0;mohabbat bhi jhoothi;pop;mukesh;sadness;1950
+1;i believe;pop;frankie laine;world/life;1950
+2;cry;pop;johnnie ray;music;1950
+3;patricia;pop;pérez prado;romantic;1950
+4;apopse eida oneiro;pop;giorgos papadopoulos;romantic;1950
+5;round and round (with mitchell ayres and his orchestra & the ray charles singers);pop;perry como;violence;1950
+6;opm medley: when i met you;pop;freestyle;world/life;1950
+7;it's not for me to say;pop;johnny mathis;world/life;1950
+8;klapse me mana klapse me;pop;stélios kazantzídis;romantic;1950
+9;finito la mouzika;pop;stélios kazantzídis;sadness;1950
+10;drømmer man om den, vågner..;pop;liva weel;obscene;1951
+11;carolina moon;pop;the chordettes;night/time;1951
+12;necessary evil;pop;frankie laine;obscene;1951
+13;kanugona galano;pop;ghantasala;sadness;1951
+14;the carioca;pop;les paul;romantic;1951
+15;chicken reel;pop;les paul;world/life;1951
+16;blue skies;pop;les paul;music;1951
+17;dark eyes;pop;les paul;violence;1951
+18;kotha mukunda;pop;asha bhosle;violence;1952
+19;awaz deta hai sola ka din;pop;asha bhosle;feelings;1952
+20;jahan men log sachhe ashikon ko;pop;mohammed rafi;sadness;1952
+21;avanee nee pathi;pop;ghantasala;violence;1952
+22;ee jagamantha natika;pop;ghantasala;romantic;1952
+23;smoke rings;pop;les paul;music;1952
+24;hum tujhse mohabbat kar ke;pop;mukesh;music;1952
+25;paas nahin aaiye haath na lagaiye;pop;lata mangeshkar;night/time;1952
+26;main na janoon;pop;lata mangeshkar;music;1952
+27;gullyachi shapath;pop;asha bhosle;obscene;1952
+28;judai ki khabar hoti agar;pop;lata mangeshkar;world/life;1952
+29;maagata maagata janm gele;pop;lata mangeshkar;violence;1953
+30;chupke chupke (from ''paying guest'');pop;lata mangeshkar;violence;1953
+31;chahe kitna mujhe tum bulao ji;pop;asha bhosle;sadness;1953
+32;tu bol na bol;pop;asha bhosle;romantic;1953
+33;raat andheri door savera;pop;mukesh;world/life;1953
+34;thunintha pin;pop;ghantasala;world/life;1953
+35;i'm sitting on top of the world;pop;les paul;music;1953
+36;the world is waiting for the sunrise;pop;les paul;romantic;1953
+37;ethanai periya;pop;t. m. soundararajan;world/life;1953
+38;ansoo to nahin hai ankhon men;pop;talat mahmood;obscene;1953
+39;it's the most wonderful time of the year;pop;andy williams;night/time;1953
+40;chandan ka palna resham ko dori;pop;lata mangeshkar;world/life;1954
+41;le chal ri nindiya le chal hamen;pop;lata mangeshkar;violence;1954
+42;after you've gone;pop;frankie laine;violence;1954
+43;mere hamsafar tujhe kya khabar;pop;asha bhosle;romantic;1954
+44;viljen i veta (would you like to know?);pop;sven-bertil taube;world/life;1954
+45;blue velvet;pop;bobby vinton;music;1954
+46;poema;pop;los hermanos arriagada;sadness;1954
+47;the bells of st. mary's;pop;the drifters;music;1954
+48;for me and my gal;pop;the chordettes;music;1954
+49;mark twain;pop;harry belafonte;music;1954
+50;the next big river;pop;harry belafonte;violence;1954
+51;sitaron ki mehfil saji;pop;lata mangeshkar;violence;1954
+52;gopiparivrito;pop;a. m. rajah;obscene;1954
+53;you're the cream in my coffee;pop;jonah jones;music;1954
+54;kabhi khamosh rahte hain;pop;lata mangeshkar;sadness;1955
+55;khanke to khanke;pop;mohammed rafi;sadness;1955
+56;here am i;pop;johnnie ray;sadness;1955
+57;brazil;pop;les paul;world/life;1955
+58;baby, won't you please come home;pop;les paul;violence;1955
+59;jezebel;pop;frankie laine;violence;1955
+60;two hound dogs;pop;bill haley & his comets;music;1955
+61;sleep;pop;les paul;night/time;1955
+62;mera dil yeh pukare aaja;pop;lata mangeshkar;sadness;1955
+63;to you my love;pop;ted heath;violence;1955
+64;believe in me;pop;ted heath;obscene;1956
+65;take the “a” train;pop;ted heath;obscene;1956
+66;pahuni raghunandan savala;pop;lata mangeshkar;obscene;1956
+67;come rock with me;pop;bill haley & his comets;night/time;1956
+68;antar mantar jantar;pop;lata mangeshkar;sadness;1956
+69;kahan se yeh sholon ka toofan aaya;pop;lata mangeshkar;violence;1956
+70;temptation;pop;the platters;sadness;1956
+71;unchained melody;pop;harry belafonte;night/time;1956
+72;on my word of honor;pop;the platters;romantic;1956
+73;just my imagination (running away with me);pop;pete yorn;sadness;1956
+74;don't you know i love you;pop;the clovers;world/life;1956
+75;love, your magic spell is everywhere;pop;johnny mathis;sadness;1956
+76;heart of stone;pop;the platters;violence;1956
+77;have mercy;pop;the platters;romantic;1956
+78;you've changed;pop;the platters;world/life;1956
+79;i do adore her;pop;harry belafonte;sadness;1956
+80;ciao, ciao, bambina;pop;jerry vale;sadness;1956
+81;non dimenticar;pop;jerry vale;romantic;1956
+82;al di la;pop;jerry vale;sadness;1956
+83;matilda;pop;harry belafonte;obscene;1956
+84;devil or angel;pop;the clovers;violence;1956
+85;hosanna;pop;harry belafonte;violence;1956
+86;volare (nel blu dipinto di blu);pop;jerry vale;sadness;1956
+87;why should i;pop;the platters;romantic;1956
+88;in other words (fly me to the moon);pop;johnny mathis;music;1956
+89;i'll never be free;pop;lavern baker;romantic;1956
+90;remember when;pop;the platters;sadness;1956
+91;love love love;pop;the clovers;obscene;1956
+92;it might as well be spring;pop;johnny mathis;music;1956
+93;at your beck and call;pop;the platters;world/life;1956
+94;september in the rain;pop;the platters;music;1956
+95;i give you my word;pop;the platters;music;1956
+96;more;pop;jerry vale;romantic;1956
+97;summertime in venice;pop;jerry vale;music;1956
+98;here goes a fool;pop;the clovers;obscene;1956
+99;chinna kelbyaadve nanna ppuraana;pop;t. m. soundararajan;romantic;1956
+100;remember me (the girl in the wood);pop;frankie laine;world/life;1956
+101;blood beach;pop;groovie ghoulies;violence;1957
+102;am i blue?;pop;ricky nelson;music;1957
+103;don't ever love me;pop;harry belafonte;romantic;1957
+104;angelique-o;pop;harry belafonte;world/life;1957
+105;true love;pop;ricky nelson;romantic;1957
+106;by myself;pop;johnny mathis;world/life;1957
+107;warm;pop;johnny mathis;romantic;1957
+108;panchhi banoon udti phiroon;pop;lata mangeshkar;music;1957
+109;miss you;pop;billy vaughn;sadness;1957
+110;one kiss;pop;eddie cochran;romantic;1957
+111;i'm glad there is you;pop;johnny mathis;sadness;1957
+112;baby, baby, baby;pop;johnny mathis;sadness;1957
+113;undying love;pop;eddie cochran;world/life;1957
+114;your true love;pop;ricky nelson;romantic;1957
+115;cu cu ru cu cu paloma;pop;harry belafonte;sadness;1957
+116;cordelia brown;pop;harry belafonte;world/life;1957
+117;dear heart;pop;andy williams;romantic;1957
+118;completely sweet;pop;eddie cochran;romantic;1957
+119;sittin' in the balcony;pop;eddie cochran;romantic;1957
+120;a time for us;pop;andy williams;world/life;1957
+121;soft sands;pop;the chordettes;romantic;1957
+122;(where do i begin) love story;pop;andy williams;world/life;1957
+123;canadian sunset;pop;andy williams;romantic;1957
+124;kisses sweeter than wine;pop;jimmie rodgers;romantic;1957
+125;eddie my love;pop;the chordettes;night/time;1957
+126;come home to my arms;pop;the chordettes;romantic;1957
+127;love never changes;pop;the chordettes;world/life;1957
+128;tumsa nahin dekha;pop;mohammed rafi;sadness;1957
+129;i can't love you enough;pop;lavern baker;sadness;1957
+130;choopula kalasina subhavela;pop;ghantasala;violence;1957
+131;i'm alone because i love you;pop;eddie cochran;sadness;1957
+132;i've grown accustomed to her face;pop;johnny mathis;violence;1957
+133;speak softly love;pop;andy williams;world/life;1957
+134;teen age goodnight;pop;the chordettes;romantic;1957
+135;love, love alone;pop;harry belafonte;sadness;1957
+136;now i know;pop;the keynotes;sadness;1957
+137;tell me you love me;pop;the keynotes;obscene;1957
+138;still;pop;lavern baker;romantic;1957
+139;i don't know;pop;the keynotes;world/life;1957
+140;suno sunaoon tumhen ek kahani;pop;pradeep kumar;obscene;1957
+141;i'll see you in my dreams;pop;norrie paramor;sadness;1957
+142;i surrender, dear;pop;les paul;sadness;1957
+143;titulos principio;pop;esquivel!;night/time;1957
+144;in the middle of nowhere;pop;the platters;sadness;1957
+145;you are too beautiful;pop;the platters;sadness;1957
+146;that's all i need;pop;lavern baker;obscene;1957
+147;aagaya veedhiyil;pop;ghantasala;violence;1958
+148;don't blame me;pop;the platters;sadness;1958
+149;between the devil and the deep blue sea;pop;perry como;violence;1958
+150;in the garden;pop;perry como;music;1958
+151;he's got the whole world in his hands;pop;perry como;romantic;1958
+152;birth of the blues;pop;perry como;music;1958
+153;where can i go?;pop;johnny mathis;romantic;1958
+154;夢斷巫山;pop;張露;world/life;1958
+155;你去了那裡;pop;張露;music;1958
+156;mona lisa;pop;frankie laine;sadness;1958
+157;inbamae pongumae;pop;a. m. rajah;sadness;1958
+158;enna vendum;pop;t. m. soundararajan;obscene;1958
+159;cowboy jackie;pop;maria koterbska;sadness;1958
+160;unchained melody;pop;ricky nelson;night/time;1958
+161;rose, rose, i love you;pop;frankie laine;sadness;1958
+162;talk to me something;pop;bobby darin;romantic;1958
+163;there goes my baby;pop;ricky nelson;obscene;1958
+164;oh, so many years;pop;the everly brothers;romantic;1958
+165;when i am with you;pop;johnny mathis;romantic;1958
+166;i'll walk alone;pop;ricky nelson;sadness;1958
+167;down the line;pop;ricky nelson;night/time;1958
+168;yours;pop;billy vaughn;romantic;1958
+169;all dressed up with a broken heart;pop;jerry vale;sadness;1958
+170;changing all those changes;pop;buddy holly;world/life;1958
+171;no love (but your love);pop;johnny mathis;romantic;1958
+172;pretty betty;pop;bobby darin;night/time;1958
+173;well...all right;pop;buddy holly;night/time;1958
+174;wonderful, wonderful;pop;johnny mathis;romantic;1958
+175;i'm gonna love you too;pop;buddy holly;feelings;1958
+176;sleigh ride;pop;johnny mathis;music;1958
+177;the twelfth of never;pop;johnny mathis;romantic;1958
+178;to be loved;pop;jackie wilson;romantic;1958
+179;when sunny gets blue;pop;johnny mathis;sadness;1958
+180;words of love;pop;buddy holly;romantic;1958
+181;poor little fool;pop;ricky nelson;sadness;1958
+182;high noon;pop;frankie laine;violence;1958
+183;blue days, black nights;pop;buddy holly;music;1958
+184;take your time;pop;buddy holly;night/time;1958
+185;winter wonderland;pop;johnny mathis;music;1958
+186;little baby;pop;buddy holly;sadness;1958
+187;valley of tears;pop;buddy holly;world/life;1958
+188;diana;pop;frankie lymon;romantic;1958
+189;long time gone;pop;the everly brothers;night/time;1958
+190;roving gambler;pop;the everly brothers;obscene;1958
+191;listen to me;pop;buddy holly;music;1958
+192;you are my one desire;pop;buddy holly;romantic;1958
+193;love me;pop;buddy holly;world/life;1958
+194;love letters;pop;perry como;night/time;1958
+195;drifting away from you;pop;the drifters;sadness;1958
+196;moonlight bay;pop;the drifters;music;1958
+197;i'll take you home again kathleen;pop;the platters;sadness;1958
+198;my serenade;pop;the platters;music;1958
+199;sleepy time gal;pop;the platters;night/time;1958
+200;try a little tenderness;pop;the platters;world/life;1958
+201;god rest ye merry, gentlemen;pop;mantovani;world/life;1958
+202;all of me;pop;jerry vale;sadness;1958
+203;that old feeling;pop;the platters;sadness;1958
+204;for the first time;pop;the platters;night/time;1958
+205;believe what you say;pop;ricky nelson;world/life;1958
+206;my bucket's got a hole in it;pop;ricky nelson;violence;1958
+207;jealousy (jalousie);pop;frankie laine;sadness;1958
+208;it's raining outside;pop;the platters;sadness;1958
+209;good night irene;pop;jerry lee lewis;world/life;1958
+210;blue christmas;pop;johnny mathis;music;1958
+211;whispering wind;pop;the platters;music;1958
+212;as long as i live;pop;jackie wilson;world/life;1958
+213;right now!;pop;jackie wilson;night/time;1958
+214;granada;pop;frankie laine;world/life;1958
+215;your cheatin' heart;pop;frankie laine;sadness;1958
+216;but not like you;pop;the platters;sadness;1958
+217;danny boy;pop;jackie wilson;music;1958
+218;that's my desire;pop;frankie laine;romantic;1958
+219;don't leave me;pop;ricky nelson;sadness;1959
+220;promises, promises;pop;jerry vale;sadness;1959
+221;moonglow;pop;jerry vale;music;1959
+222;i belong to you;pop;neil sedaka;world/life;1959
+223;crying my heart out for you;pop;neil sedaka;sadness;1959
+224;moon of gold;pop;neil sedaka;romantic;1959
+225;i waited too long;pop;neil sedaka;night/time;1959
+226;forty winks away;pop;neil sedaka;sadness;1959
+227;no vacancy;pop;neil sedaka;obscene;1959
+228;blood from a stone;pop;ricky nelson;violence;1959
+229;going home to mary lou;pop;neil sedaka;music;1959
+230;i'm walkin';pop;cliff richard & the shadows;sadness;1959
+231;i've got you under my skin;pop;shirley bassey;violence;1959
+232;walk with me;pop;neil sedaka;sadness;1959
+233;as long as i live;pop;neil sedaka;world/life;1959
+234;the same old fool;pop;neil sedaka;sadness;1959
+235;love is all;pop;jackie wilson;obscene;1959
+236;shiva shankari shivananda;pop;ghantasala;violence;1959
+237;i wish your picture was you;pop;lloyd price;world/life;1959
+238;stairway to the sea (scalinatella);pop;johnny mathis;sadness;1959
+239;embraceable you;pop;johnny mathis;romantic;1959
+240;let's love;pop;johnny mathis;romantic;1959
+241;oceano;pop;tony dallara;sadness;1959
+242;منك بخاف;pop;rania;violence;1959
+243;let it snow! let it snow! let it snow!;pop;ira ironstrings;sadness;1959
+244;back in your own back yard;pop;brenda lee;sadness;1959
+245;you better go now;pop;johnny mathis;obscene;1959
+246;i'm just a boy in love;pop;johnny mathis;world/life;1959
+247;secret love;pop;johnny mathis;world/life;1959
+248;where are you?;pop;johnny mathis;sadness;1959
+249;faithfully;pop;johnny mathis;romantic;1959
+250;have yourself a merry little christmas;pop;connie francis;music;1959
+251;i'll be home for christmas;pop;connie francis;music;1959
+252;touch me, lord jesus;pop;lavern baker;romantic;1959
+253;happiness;pop;jackie wilson;sadness;1959
+254;only you, only me;pop;jackie wilson;obscene;1959
+255;it's all a part of love;pop;jackie wilson;world/life;1959
+256;superman;pop;the brothers four;violence;1959
+257;angelique-o;pop;the brothers four;world/life;1959
+258;the damsel's lament (i never will marry);pop;the brothers four;world/life;1959
+259;i'll be easy to find;pop;johnny mathis;sadness;1959
+260;prisoner of love;pop;the platters;sadness;1959
+261;if i didn't care;pop;the platters;sadness;1959
+262;as time goes by;pop;the flamingos;violence;1959
+263;when i fall in love;pop;johnny mathis;sadness;1959
+264;i'll never smile again;pop;the platters;sadness;1959
+265;mama;pop;connie francis;world/life;1959
+266;rockin' all night;pop;ritchie valens;romantic;1959
+267;i got the blues;pop;dion & the belmonts;music;1959
+268;through a long and sleepless night;pop;bobby darin;sadness;1959
+269;sweeter than you;pop;ricky nelson;romantic;1959
+270;no one knows;pop;dion & the belmonts;sadness;1959
+271;non dimenticar;pop;connie francis;romantic;1959
+272;turn! turn! turn! (to everything there is a season);pop;the byrds;night/time;1959
+273;mrs. robinson;pop;simon & garfunkel;sadness;1959
+274;yellow bird;pop;the brothers four;sadness;1959
+275;stay beside me;pop;ritchie valens;sadness;1959
+276;just you;pop;dion & the belmonts;violence;1959
+277;you mean everything to me;pop;neil sedaka;romantic;1959
+278;i'm walkin';pop;fats domino;obscene;1959
+279;lonely teardrops;pop;jackie wilson;sadness;1959
+280;oh! carol;pop;neil sedaka;sadness;1959
+281;lonesome town;pop;ricky nelson;sadness;1959
+282;blueberry hill;pop;fats domino;romantic;1959
+283;ain't that a shame;pop;fats domino;sadness;1959
+284;smoke gets in your eyes;pop;the platters;sadness;1959
+285;a teenager in love;pop;dion & the belmonts;sadness;1959
+286;we belong together;pop;ritchie valens;music;1959
+287;winter wonderland;pop;connie francis;music;1959
+288;paddiwack song;pop;ritchie valens;music;1959
+289;boulevard of broken dreams;pop;esquivel!;sadness;1959
+290;it's late;pop;ricky nelson;night/time;1959
+291;i'll remember april;pop;bobby darin;romantic;1959
+292;my darling is gone;pop;ritchie valens;sadness;1959
+293;music, maestro, please!;pop;the flamingos;music;1959
+294;that's my desire;pop;dion & the belmonts;romantic;1959
+295;fool fool fool;pop;the clovers;sadness;1959
+296;all about you;pop;the clovers;obscene;1959
+297;the marching saints;pop;harry belafonte;obscene;1959
+298;if you've got the money i've got the time;country;lefty frizzell;night/time;1950
+299;i want to be with you always;country;lefty frizzell;music;1950
+300;how long will it take (to stop loving you);country;lefty frizzell;night/time;1950
+301;look what thoughts will do;country;lefty frizzell;world/life;1950
+302;treasure untold;country;lefty frizzell;romantic;1950
+303;my old pal;country;lefty frizzell;world/life;1950
+304;always late (with your kisses);country;lefty frizzell;night/time;1950
+305;i love you a thousand ways;country;lefty frizzell;world/life;1950
+306;she's gone, gone, gone;country;lefty frizzell;violence;1950
+307;the long black veil;country;lefty frizzell;violence;1950
+308;give me more, more, more (of your kisses);country;lefty frizzell;romantic;1950
+309;lost love blues (rehearsal session);country;lefty frizzell;night/time;1951
+310;i'll try;country;lefty frizzell;sadness;1951
+311;all of me loves all of you;country;lefty frizzell;world/life;1951
+312;no mother in this world today;country;lester flatt;world/life;1951
+313;long gone;country;brownie mcghee;night/time;1951
+314;i know you're lonesome (while waiting for me);country;lefty frizzell;music;1951
+315;that's me without you;country;lefty frizzell;violence;1951
+316;give me the flowers (while i'm living);country;lester flatt;world/life;1951
+317;gone home;country;lester flatt;music;1951
+318;i still miss someone;country;lester flatt;sadness;1951
+319;don't stay away (till love grows cold);country;lefty frizzell;sadness;1951
+320;who will sing for me?;country;lester flatt;music;1951
+321;he took your place;country;lester flatt;world/life;1951
+322;forever (and always);country;lefty frizzell;romantic;1951
+323;black snake moan;country;brownie mcghee;night/time;1951
+324;the little drummer boy;country;johnny cash;music;1951
+325;i'm walking with him;country;lester flatt;world/life;1951
+326;wait for the sunshine;country;lester flatt;world/life;1951
+327;joy bells;country;lester flatt;sadness;1951
+328;losin' you;country;june carter cash;obscene;1952
+329;strange woman;country;june carter cash;sadness;1952
+330;gone;country;june carter cash;feelings;1952
+331;get this stranger out of me;country;lefty frizzell;sadness;1952
+332;i'll go on alone;country;marty robbins;world/life;1952
+333;appalachian pride;country;june carter cash;violence;1952
+334;i walk alone;country;marty robbins;sadness;1952
+335;the story of my life;country;marty robbins;sadness;1952
+336;don't worry;country;marty robbins;romantic;1952
+337;some memories just won't die;country;marty robbins;sadness;1952
+338;juke box blues;country;june carter cash;music;1952
+339;ribbon of darkness;country;marty robbins;sadness;1952
+340;my woman, my woman, my wife;country;marty robbins;romantic;1952
+341;just married;country;marty robbins;sadness;1952
+342;without a love to call my own;country;june carter cash;music;1952
+343;among my souvenirs;country;marty robbins;sadness;1952
+344;the loving gift;country;johnny cash;world/life;1952
+345;i love you sweetheart;country;june carter cash;sadness;1952
+346;no swallerin' place;country;june carter cash;night/time;1952
+347;cabin on the hill;country;lester flatt;sadness;1952
+348;keep on the sunny side;country;the carter family;world/life;1952
+349;santa claus is comin' to town;country;gene autry;obscene;1953
+350;i love you mostly;country;lefty frizzell;romantic;1953
+351;making believe;country;lefty frizzell;sadness;1953
+352;i won't mention it again;country;ray price;sadness;1954
+353;release me;country;ray price;world/life;1954
+354;danny boy;country;ray price;violence;1954
+355;counting the days;country;marah;violence;1954
+356;crazy arms;country;ray price;romantic;1954
+357;the devil went down to georgia;country;the charlie daniels band;violence;1954
+358;tennessee flat top box;country;johnny cash;music;1954
+359;big bad john;country;jimmy dean;violence;1954
+360;sporting life;country;brownie mcghee;world/life;1955
+361;paper boy;country;johnny cooper;sadness;1955
+362;long time to forget;country;george jones;night/time;1955
+363;uh uh no;country;george jones;sadness;1955
+364;seasons of my heart;country;george jones;sadness;1955
+365;no money in this deal;country;george jones;obscene;1955
+366;honky tonk hardwood floor;country;johnny horton;obscene;1955
+367;all over again;country;johnny cash;sadness;1955
+368;good morning blues;country;brownie mcghee;violence;1955
+369;simple simon;country;hank thompson;world/life;1956
+370;the same old me;country;ray price;sadness;1956
+371;one more time;country;ray price;night/time;1956
+372;i'd rather be sorry;country;ray price;world/life;1956
+373;yesterday's girl;country;hank thompson;world/life;1956
+374;when you're lovin', you're livin';country;hank thompson;world/life;1956
+375;loose talk;country;carl smith;sadness;1956
+376;over and over;country;jean shepard;sadness;1956
+377;there she goes;country;carl smith;sadness;1956
+378;shadows on the wall;country;jean shepard;sadness;1956
+379;sing her a love song;country;carl smith;music;1956
+380;i'll thank you all my life;country;jean shepard;world/life;1956
+381;i married you for love;country;jean shepard;world/life;1956
+382;hello old broken heart;country;jean shepard;sadness;1956
+383;make the world go away;country;ray price;sadness;1956
+384;the angel of death;country;hank williams;violence;1956
+385;thank god;country;hank williams;world/life;1956
+386;jesus remembered me;country;hank williams;world/life;1956
+387;johnny reb;country;johnny horton;violence;1956
+388;all for the love of a girl;country;johnny horton;world/life;1956
+389;message to my mother;country;hank williams;sadness;1956
+390;the mansion you stole;country;johnny horton;sadness;1956
+391;(i'm gonna) sing, sing, sing;country;hank williams;music;1956
+392;you're the best thing that ever happened to me;country;ray price;world/life;1956
+393;i got a hole in my pirogue;country;johnny horton;violence;1956
+394;wealth won't save your soul;country;hank williams;world/life;1956
+395;how can you refuse him now;country;hank williams;sadness;1956
+396;i'm ready if you're willing;country;johnny horton;night/time;1956
+397;why should i be lonely;country;lefty frizzell;music;1957
+398;if you're ever lonely darling;country;lefty frizzell;night/time;1957
+399;release me;country;lefty frizzell;romantic;1957
+400;i don't want to know;country;hank thompson;feelings;1957
+401;joy to the world;country;gene autry;music;1957
+402;san antonio rose;country;carl smith;sadness;1957
+403;i can't help it;country;ray price;sadness;1957
+404;let me talk to you;country;ray price;world/life;1957
+405;all the world is lonely now;country;marty robbins;sadness;1957
+406;signed, sealed and delivered;country;lefty frizzell;sadness;1957
+407;only one heart to give;country;sonny james;romantic;1957
+408;i wish i knew;country;sonny james;obscene;1957
+409;swing low, sweet chariot;country;big bill broonzy;music;1957
+410;may god be with you;country;sonny james;obscene;1957
+411;time changes everything;country;carl smith;world/life;1957
+412;please come back home;country;carl smith;obscene;1957
+413;lovin' is livin';country;carl smith;obscene;1957
+414;forgive me;country;sonny james;sadness;1957
+415;the house that love built;country;carl smith;romantic;1957
+416;bouquet of roses;country;marty robbins;sadness;1957
+417;ain't no wheels on this ship;country;patsy cline;obscene;1957
+418;i can't forget;country;patsy cline;world/life;1957
+419;i was there when it happened (2017 remaster);country;johnny cash;violence;1957
+420;cry! cry! cry! (alternate version, extended take 1) (2017 remaster);country;johnny cash;music;1957
+421;don't ever leave me again;country;patsy cline;sadness;1957
+422;fingerprints;country;patsy cline;sadness;1957
+423;i walk the line;country;johnny cash;sadness;1957
+424;three cigarettes in an ashtray;country;patsy cline;sadness;1957
+425;return to me;country;marty robbins;sadness;1957
+426;doin' my time;country;johnny cash;night/time;1957
+427;the wreck of the old 97;country;johnny cash;violence;1957
+428;remember me;country;johnny cash;world/life;1957
+429;in care of the blues;country;patsy cline;music;1957
+430;i heard that lonesome whistle;country;johnny cash;music;1957
+431;unchained melody;country;marty robbins;night/time;1957
+432;i hang my head and cry;country;marty robbins;sadness;1957
+433;pins and needles;country;ray price;sadness;1957
+434;i love you because;country;ray price;world/life;1957
+435;letters have no arms;country;ray price;romantic;1957
+436;remember me;country;ray price;world/life;1957
+437;i'll sail my ship alone;country;ray price;sadness;1957
+438;it's too late now (to worry anymore);country;marty robbins;sadness;1957
+439;you only want me when you're lonely;country;marty robbins;sadness;1957
+440;to each his own;country;marty robbins;romantic;1957
+441;hang your head in shame;country;hank thompson;violence;1957
+442;love me tender;country;marty robbins;romantic;1957
+443;heartbreak avenue;country;don gibson;sadness;1958
+444;where no one stands alone;country;don gibson;violence;1958
+445;lord i'm coming home;country;don gibson;music;1958
+446;i love you a thousand ways;country;carl smith;world/life;1958
+447;my god is real;country;don gibson;feelings;1958
+448;blues in my heart;country;don gibson;sadness;1958
+449;evening prayer;country;don gibson;world/life;1958
+450;known only to him;country;don gibson;world/life;1958
+451;in the valley of the moon;country;hank thompson;romantic;1958
+452;the best years of your life;country;carl smith;world/life;1958
+453;pray for me;country;the louvin brothers;violence;1958
+454;stay;country;charlie rich;sadness;1958
+455;driftwood on the river;country;ray price;sadness;1958
+456;ice cold heart;country;ray price;sadness;1958
+457;there'll be no teardrops tonight;country;ray price;world/life;1958
+458;let me call you sweetheart;country;hank thompson;music;1958
+459;signed, sealed and delivered;country;hank thompson;sadness;1958
+460;make room in your heart (for a memory);country;hank thompson;sadness;1958
+461;after all the things i've done;country;hank thompson;world/life;1958
+462;i wouldn't miss it for the world;country;hank thompson;sadness;1958
+463;please don't leave me;country;ray price;romantic;1958
+464;i overlooked an orchid;country;carl smith;world/life;1958
+465;hang your head in shame;country;carl smith;sadness;1958
+466;night train to memphis;country;carl smith;night/time;1958
+467;slowly;country;carl smith;sadness;1958
+468;too soon to know;country;don gibson;sadness;1958
+469;goodnight sweetheart;country;sonny james;night/time;1958
+470;you, you, you;country;sonny james;world/life;1958
+471;i'd rather die young;country;johnny cash;sadness;1958
+472;that's all over;country;johnny cash;sadness;1958
+473;don't make me go;country;johnny cash;sadness;1958
+474;goodbye little darling;country;johnny cash;romantic;1958
+475;the troubadour;country;johnny cash;music;1958
+476;come in stranger;country;johnny cash;night/time;1958
+477;there you go;country;johnny cash;sadness;1958
+478;next in line;country;johnny cash;night/time;1958
+479;make him a soldier;country;the louvin brothers;obscene;1958
+480;i still miss someone;country;johnny cash;sadness;1958
+481;home of the blues;country;johnny cash;music;1958
+482;suppertime;country;johnny cash;music;1958
+483;joe's been a-gittin' there;country;johnny horton;obscene;1958
+484;counterfeit love;country;johnny horton;sadness;1958
+485;i can't stop lovin' you;country;don gibson;world/life;1958
+486;shepherd of my heart;country;johnny cash;romantic;1958
+487;take me as i am;country;don gibson;violence;1958
+488;bad, bad day;country;don gibson;sadness;1958
+489;i've gotta have my baby back;country;ray price;music;1958
+490;i love you so much, it hurts;country;ray price;sadness;1958
+491;sweet, sweet girl;country;don gibson;romantic;1958
+492;(prayer is the key to heaven) faith unlocks the door;country;don gibson;violence;1958
+493;talk to your heart;country;ray price;sadness;1958
+494;stranger;country;lefty frizzell;sadness;1959
+495;lonely heart;country;lefty frizzell;sadness;1959
+496;foggy river;country;don gibson;sadness;1959
+497;i wish it had been a dream;country;don gibson;sadness;1959
+498;let's call it a day;country;stonewall jackson;world/life;1959
+499;man has cried;country;stonewall jackson;sadness;1959
+500;i'd rather die young;country;jean shepard;sadness;1959
+501;mary don't you weep;country;stonewall jackson;music;1959
+502;a satisfied mind;country;jean shepard;world/life;1959
+503;crying steel guitar waltz;country;jean shepard;music;1959
+504;goin' home;country;conway twitty;music;1959
+505;hey miss ruby;country;conway twitty;feelings;1959
+506;restless;country;conway twitty;world/life;1959
+507;judge of hearts;country;conway twitty;sadness;1959
+508;i'll never shed another tear;country;lester flatt;world/life;1959
+509;baby blue eyes;country;lester flatt;sadness;1959
+510;midnight;country;don gibson;sadness;1959
+511;almost;country;don gibson;music;1959
+512;i'll never love another;country;lester flatt;world/life;1959
+513;i'm going to make heaven my home;country;lester flatt;world/life;1959
+514;halfway to heaven;country;conway twitty;night/time;1959
+515;do you think;country;don gibson;sadness;1959
+516;walking blues;country;brownie mcghee;sadness;1959
+517;you can't break the chains of love;country;jean shepard;sadness;1959
+518;i'll hold you in my heart;country;jean shepard;romantic;1959
+519;i love you because;country;jean shepard;world/life;1959
+520;sweet temptation;country;jean shepard;romantic;1959
+521;you're calling me sweetheart again;country;jean shepard;music;1959
+522;under suspicion;country;jean shepard;romantic;1959
+523;memory;country;jean shepard;sadness;1959
+524;it's my way;country;don gibson;romantic;1959
+525;the other woman;country;jean shepard;romantic;1959
+526;a thief in the night;country;jean shepard;romantic;1959
+527;brownie's blues;country;brownie mcghee;obscene;1959
+528;i'll never be free;country;jean shepard;romantic;1959
+529;she's mine;country;conway twitty;romantic;1959
+530;will the circle be unbroken;country;george jones;music;1959
+531;hank and joe and me;country;johnny cash;violence;1959
+532;thanks a lot;country;johnny cash;world/life;1959
+533;i forgot to remember to forget;country;johnny cash;world/life;1959
+534;the caretaker;country;johnny cash;violence;1959
+535;you win again;country;johnny cash;sadness;1959
+536;it could be you (instead of him);country;johnny cash;world/life;1959
+537;mona lisa;country;conway twitty;sadness;1959
+538;if i could only win your love;country;the louvin brothers;sadness;1959
+539;old apache squaw;country;johnny cash;violence;1959
+540;wind;country;sons of the pioneers;sadness;1959
+541;it's only make believe;country;conway twitty;world/life;1959
+542;the old account;country;johnny cash;world/life;1959
+543;luther played the boogie;country;johnny cash;music;1959
+544;lead me father;country;johnny cash;violence;1959
+545;lead me gently home;country;johnny cash;world/life;1959
+546;these things shall pass;country;johnny cash;world/life;1959
+547;(ghost) riders in the sky;country;sons of the pioneers;violence;1959
+548;young love;country;sonny james;sadness;1959
+549;swing low, sweet chariot;country;johnny cash;music;1959
+550;blueberry hill;country;conway twitty;romantic;1959
+551;i'll try;country;conway twitty;romantic;1959
+552;the story of my love;country;conway twitty;world/life;1959
+553;teardrops in my heart;country;sons of the pioneers;sadness;1959
+554;you'll never walk alone;country;conway twitty;sadness;1959
+555;don't you know;country;conway twitty;world/life;1959
+556;all my love in vain;country;sonny boy williamson ii;sadness;1959
+557;today;country;the louvin brothers;music;1959
+558;my lord has called me;country;george jones;world/life;1959
+559;wandering soul;country;george jones;world/life;1959
+560;good ole bible;country;george jones;world/life;1959
+561;take the devil out of me;country;george jones;violence;1959
+562;danny boy;country;conway twitty;music;1959
+563;rovin' gambler;country;hank thompson;obscene;1959
+564;ridin' home;country;sons of the pioneers;music;1959
+565;if you want to wear a crown;country;george jones;violence;1959
+566;it only hurts for a little while;country;don gibson;sadness;1960
+567;big hearted me;country;don gibson;sadness;1960
+568;never love again;country;don gibson;romantic;1960
+569;sweet dreams;country;don gibson;world/life;1960
+570;lonely street;country;don gibson;sadness;1960
+571;maybe tomorrow;country;don gibson;night/time;1960
+572;the blackboard of my heart;country;hank thompson;sadness;1960
+573;tears are only rain;country;hank thompson;sadness;1960
+574;how do you feel?;country;hank thompson;sadness;1960
+575;we've gone too far;country;hank thompson;sadness;1960
+576;most of all;country;hank thompson;world/life;1960
+577;my tears don't show;country;don gibson;sadness;1960
+578;breakin' the rules;country;hank thompson;obscene;1960
+579;if i can stay away;country;don gibson;night/time;1960
+580;time hurts;country;don gibson;sadness;1960
+581;hurtin' inside;country;don gibson;sadness;1960
+582;the streets of laredo;country;don gibson;violence;1960
+583;my hands are tied;country;don gibson;romantic;1960
+584;rock of ages;country;ray price;violence;1960
+585;love thief;country;hank thompson;sadness;1960
+586;cryin' in the deep blue sea;country;hank thompson;sadness;1960
+587;soft lips;country;hank thompson;romantic;1960
+588;take a look at this broken heart of mine;country;hank thompson;sadness;1960
+589;i was the first one;country;hank thompson;sadness;1960
+590;take this hammer;country;big bill broonzy;obscene;1960
+591;bottle it up and go;country;lightnin' hopkins;obscene;1960
+592;if i had my way;country;rev. gary davis;violence;1960
+593;until then;country;ray price;music;1960
+594;the foot race is on;country;lightnin' hopkins;obscene;1960
+595;bill bailey, won't you please come home?;country;big bill broonzy;music;1960
+596;so long baby;country;lightnin' hopkins;night/time;1960
+597;louise blues;country;big bill broonzy;obscene;1960
+598;how about rocking with me;blues;piney brown;obscene;1950
+599;midnight blues;blues;the ravens;music;1950
+600;gotta find my baby;blues;the ravens;obscene;1950
+601;you're gonna lose your gal;blues;the ravens;violence;1950
+602;i've got a crush on you;blues;ella fitzgerald;world/life;1950
+603;but not for me;blues;ella fitzgerald;sadness;1950
+604;soon;blues;ella fitzgerald;music;1950
+605;call me darling;blues;josh white;obscene;1951
+606;the bigger the figure (with keely smith);blues;louis prima;sadness;1951
+607;one mint julep;blues;louis prima;obscene;1951
+608;eleanor;blues;louis prima;sadness;1951
+609;basta;blues;louis prima;violence;1951
+610;you'll have to swing it (mr. paganini);blues;ella fitzgerald;music;1953
+611;it might as well be spring;blues;ella fitzgerald;music;1953
+612;thanks for the memory;blues;ella fitzgerald;world/life;1953
+613;lover, come back to me;blues;ella fitzgerald;sadness;1953
+614;taking a chance on love;blues;ella fitzgerald;sadness;1953
+615;between the devil and the deep blue sea;blues;ella fitzgerald;violence;1953
+616;yesterdays;blues;billie holiday;world/life;1953
+617;i can't face the music;blues;billie holiday;music;1953
+618;remember;blues;billie holiday;world/life;1953
+619;no more cane on the brazo;blues;odetta;violence;1954
+620;santy anno;blues;odetta;sadness;1954
+621;i'm glad there is you;blues;ella fitzgerald;world/life;1954
+622;what is there to say?;blues;ella fitzgerald;sadness;1954
+623;my heart belongs to daddy;blues;ella fitzgerald;sadness;1954
+624;please be kind;blues;ella fitzgerald;sadness;1954
+625;you leave me breathless;blues;ella fitzgerald;sadness;1954
+626;foolish tears;blues;ella fitzgerald;sadness;1955
+627;you don't know my mind;blues;josh white;obscene;1955
+628;anymore;blues;johnny ace;romantic;1955
+629;my song;blues;johnny ace;sadness;1955
+630;saving my love for you;blues;johnny ace;world/life;1955
+631;the masquerade is over;blues;cannonball adderley;sadness;1955
+632;falling in love with love;blues;cannonball adderley;obscene;1955
+633;pledging my love;blues;johnny ace;romantic;1955
+634;blue gardenia;blues;dinah washington;music;1955
+635;i've got you under my skin;blues;dinah washington;violence;1955
+636;willow weep for me;blues;cannonball adderley;romantic;1955
+637;i could write a book;blues;dinah washington;world/life;1955
+638;i get a kick out of you;blues;dinah washington;obscene;1955
+639;easy living;blues;dinah washington;world/life;1955
+640;pete kelly's blues;blues;ella fitzgerald;music;1955
+641;you go to my head;blues;dinah washington;violence;1955
+642;i hadn't anyone till you;blues;ella fitzgerald;sadness;1955
+643;alone together;blues;dinah washington;violence;1955
+644;lover's gold;blues;ella fitzgerald;romantic;1955
+645;this can't be love;blues;dinah washington;obscene;1955
+646;dream a little longer;blues;ella fitzgerald;world/life;1955
+647;i wished on the moon;blues;ella fitzgerald;sadness;1955
+648;mule skinner blues;blues;odetta;feelings;1956
+649;chilly winds;blues;odetta;music;1956
+650;memphis blues;blues;lizzie miles;violence;1956
+651;he's got the whole world in his hands;blues;odetta;romantic;1956
+652;jack o' diamonds;blues;odetta;obscene;1956
+653;new studio blues;blues;link wray;obscene;1956
+654;come along, charlie;blues;josh white;obscene;1956
+655;joshua;blues;odetta;violence;1956
+656;night and day;blues;ella fitzgerald;night/time;1956
+657;ace in the hole;blues;ella fitzgerald;violence;1956
+658;miss otis regrets (she's unable to lunch today);blues;ella fitzgerald;world/life;1956
+659;from this moment on;blues;ella fitzgerald;romantic;1956
+660;ev'ry time we say goodbye;blues;ella fitzgerald;music;1956
+661;what is this thing called love?;blues;ella fitzgerald;sadness;1956
+662;everybody's somebody's fool;blues;lavern baker;night/time;1956
+663;i'm in a crying mood;blues;lavern baker;music;1956
+664;get out of town;blues;ella fitzgerald;romantic;1956
+665;why can't you behave?;blues;ella fitzgerald;world/life;1956
+666;i've got you under my skin;blues;ella fitzgerald;violence;1956
+667;begin the beguine;blues;ella fitzgerald;world/life;1956
+668;always true to you in my fashion;blues;ella fitzgerald;romantic;1956
+669;i concentrate on you;blues;ella fitzgerald;music;1956
+670;i get a kick out of you;blues;ella fitzgerald;obscene;1956
+671;too darn hot;blues;ella fitzgerald;night/time;1956
+672;it's delovely;blues;ella fitzgerald;romantic;1956
+673;let's do it;blues;ella fitzgerald;sadness;1956
+674;so in love;blues;ella fitzgerald;romantic;1956
+675;love me or leave me;blues;billie holiday;night/time;1956
+676;deep song;blues;billie holiday;sadness;1956
+677;you took advantage of me;blues;ella fitzgerald;sadness;1956
+678;good morning heartache;blues;billie holiday;feelings;1956
+679;what is this thing called love;blues;billie holiday;sadness;1956
+680;lover;blues;ella fitzgerald;romantic;1956
+681;spring is here;blues;ella fitzgerald;music;1956
+682;johnny one note;blues;ella fitzgerald;music;1956
+683;wait till you see her;blues;ella fitzgerald;romantic;1956
+684;some other spring;blues;billie holiday;sadness;1956
+685;i could write a book;blues;ella fitzgerald;world/life;1956
+686;there is a fountain filled with blood;blues;aretha franklin;violence;1956
+687;to keep my love alive;blues;ella fitzgerald;violence;1956
+688;too marvelous for words;blues;billie holiday;music;1956
+689;easy to love;blues;billie holiday;world/life;1956
+690;solitude;blues;billie holiday;music;1956
+691;you go to my head;blues;billie holiday;violence;1956
+692;everything i have is yours;blues;billie holiday;world/life;1956
+693;smoke gets in your eyes;blues;dinah washington;sadness;1956
+694;moonglow;blues;billie holiday;music;1956
+695;easy living;blues;billie holiday;world/life;1956
+696;my love will never die;blues;otis rush;night/time;1956
+697;jericho;blues;sister rosetta tharpe;violence;1956
+698;them there eyes;blues;billie holiday;sadness;1956
+699;no more;blues;billie holiday;sadness;1956
+700;lady sings the blues;blues;billie holiday;music;1956
+701;i love you so;blues;johnny burnette & the rock 'n' roll trio;world/life;1956
+702;goodbye;blues;dinah washington;music;1956
+703;fly away;blues;sister rosetta tharpe;sadness;1956
+704;i cried for you;blues;billie holiday;sadness;1956
+705;groaning the blues;blues;otis rush;sadness;1956
+706;a cottage for sale;blues;dinah washington;sadness;1956
+707;all of me;blues;dinah washington;romantic;1956
+708;good morning heartache;blues;ella fitzgerald;feelings;1956
+709;i've got five dollars;blues;ella fitzgerald;sadness;1956
+710;here in my arms;blues;ella fitzgerald;romantic;1956
+711;thou swell;blues;ella fitzgerald;romantic;1956
+712;strange fruit;blues;billie holiday;violence;1956
+713;while the blood runs warm;blues;aretha franklin;violence;1956
+714;cain't no grave hold my body down;blues;sister rosetta tharpe;violence;1956
+715;our love is here to stay;blues;dinah washington;night/time;1956
+716;when they ring the golden bell;blues;sister rosetta tharpe;music;1956
+717;all alone;blues;sister rosetta tharpe;world/life;1956
+718;you grow closer;blues;aretha franklin;world/life;1956
+719;he will wash you white as snow;blues;aretha franklin;violence;1956
+720;cha cha cha in blue;blues;junior wells;music;1957
+721;little by little;blues;junior wells;sadness;1957
+722;keepin' out of mischief now;blues;dinah washington;world/life;1957
+723;forever and a day;blues;mickey & sylvia;romantic;1957
+724;christopher columbus;blues;dinah washington;music;1957
+725;ain't you a mess;blues;mose allison;obscene;1957
+726;solitude;blues;ella fitzgerald;music;1957
+727;only forever;blues;ella fitzgerald;night/time;1957
+728;from coast to coast;blues;ella fitzgerald;music;1957
+729;ill wind;blues;ella fitzgerald;music;1957
+730;that's all i need;blues;the cadillacs;obscene;1957
+731;wishing well;blues;the cadillacs;violence;1957
+732;in a sentimental mood;blues;ella fitzgerald;romantic;1957
+733;day dream;blues;ella fitzgerald;sadness;1957
+734;it don't mean a thing (if it ain't got that swing);blues;ella fitzgerald;music;1957
+735;stompin' at the savoy;blues;ella fitzgerald;romantic;1957
+736;prelude to a kiss;blues;ella fitzgerald;music;1957
+737;squatty roo;blues;ella fitzgerald;music;1957
+738;do nothing till you hear from me;blues;ella fitzgerald;romantic;1957
+739;lush life;blues;ella fitzgerald;world/life;1957
+740;all too soon;blues;ella fitzgerald;romantic;1957
+741;dream a little dream of me;blues;ella fitzgerald;romantic;1957
+742;embraceable you;blues;billie holiday;romantic;1957
+743;downbound train;blues;chuck berry;violence;1957
+744;i've got my love to keep me warm;blues;ella fitzgerald;music;1957
+745;wee wee hours;blues;chuck berry;sadness;1957
+746;they can't take that away from me;blues;billie holiday;sadness;1957
+747;boogie woogie woman;blues;b.b. king;night/time;1957
+748;blind love;blues;b.b. king;violence;1957
+749;i'm puttin' all my eggs in one basket;blues;ella fitzgerald;world/life;1957
+750;blues in the night;blues;ella fitzgerald;music;1957
+751;learnin' the blues;blues;ella fitzgerald;music;1957
+752;early every morning;blues;b.b. king;world/life;1957
+753;a fine romance;blues;ella fitzgerald;romantic;1957
+754;5-10-15 hours;blues;ruth brown;violence;1957
+755;don't be that way;blues;ella fitzgerald;sadness;1957
+756;you upset me, baby;blues;b.b. king;obscene;1957
+757;speedo;blues;the cadillacs;obscene;1957
+758;drown in my own tears;blues;ray charles;sadness;1957
+759;she's a sweet one;blues;junior wells;violence;1957
+760;long distance call;blues;muddy waters;music;1957
+761;everyday i have the blues;blues;b.b. king;world/life;1957
+762;lucky lips;blues;ruth brown;romantic;1957
+763;louisiana blues;blues;muddy waters;feelings;1957
+764;she moves me;blues;muddy waters;violence;1957
+765;i'm ready;blues;muddy waters;night/time;1957
+766;woke up this morning (my baby she was gone);blues;b.b. king;feelings;1957
+767;we'll be together again;blues;ella fitzgerald;world/life;1957
+768;so long;blues;ruth brown;night/time;1957
+769;woe is me;blues;the cadillacs;obscene;1957
+770;zoom;blues;the cadillacs;obscene;1957
+771;bli-blip;blues;ella fitzgerald;sadness;1957
+772;i wonder why ?;blues;the cadillacs;obscene;1957
+773;old man river;blues;ruth brown;violence;1957
+774;you're blase;blues;ella fitzgerald;world/life;1957
+775;you are;blues;the cadillacs;obscene;1957
+776;what's new;blues;ella fitzgerald;world/life;1957
+777;don cha go way mad;blues;ella fitzgerald;world/life;1957
+778;mood indigo;blues;ella fitzgerald;music;1957
+779;did you ever love a woman;blues;b.b. king;romantic;1957
+780;gee baby, ain't i good to you;blues;billie holiday;feelings;1957
+781;what can i do;blues;b.b. king;music;1957
+782;just a-sittin' and a-rockin';blues;ella fitzgerald;sadness;1957
+783;you know i love you;blues;b.b. king;romantic;1957
+784;lost mind;blues;mose allison;sadness;1957
+785;drifting heart;blues;chuck berry;sadness;1957
+786;that old feeling;blues;ella fitzgerald;sadness;1958
+787;for heaven's sake;blues;billie holiday;romantic;1958
+788;just you just me;blues;ella fitzgerald;romantic;1958
+789;my life;blues;chuck willis;world/life;1958
+790;love, life and money;blues;little willie john;violence;1958
+791;out of this world;blues;ella fitzgerald;night/time;1958
+792;you hit the spot;blues;ella fitzgerald;obscene;1958
+793;race you down the mountain;blues;woody guthrie;violence;1958
+794;as long as i live;blues;ella fitzgerald;world/life;1958
+795;teardrops from my eyes;blues;ella fitzgerald;sadness;1958
+796;i get along without you very well;blues;billie holiday;sadness;1958
+797;let yourself go;blues;ella fitzgerald;music;1958
+798;dance around;blues;woody guthrie;romantic;1958
+799;you keep coming back like a song;blues;ella fitzgerald;world/life;1958
+800;top hat, white tie, and tails;blues;ella fitzgerald;violence;1958
+801;i can't give you anything but love;blues;ella fitzgerald;world/life;1958
+802;sweet and lovely;blues;ella fitzgerald;romantic;1958
+803;i'm putting all my eggs in one basket;blues;ella fitzgerald;world/life;1958
+804;pitiful;blues;big maybelle;obscene;1958
+805;put your finger in the air;blues;woody guthrie;violence;1958
+806;you're something else;blues;jimmy reed;obscene;1958
+807;go on to school;blues;jimmy reed;obscene;1958
+808;supper time;blues;ella fitzgerald;obscene;1958
+809;alexander's ragtime band;blues;ella fitzgerald;music;1958
+810;the song is ended;blues;ella fitzgerald;music;1958
+811;you've changed;blues;billie holiday;world/life;1958
+812;sweet lovin' you;blues;"eddie ""cleanhead"" vinson";world/life;1958
+813;goin' home baby;blues;big maybelle;obscene;1958
+814;pledging my love;blues;roy hamilton;romantic;1958
+815;for all we know;blues;billie holiday;romantic;1958
+816;your love is all i need;blues;the silhouettes;night/time;1958
+817;my one and only love;blues;roy hamilton;romantic;1958
+818;i miss you so;blues;roy hamilton;sadness;1958
+819;violets for your furs;blues;billie holiday;music;1958
+820;little jazz;blues;ella fitzgerald;obscene;1958
+821;april in paris;blues;ella fitzgerald;music;1958
+822;moonlight on the ganges;blues;ella fitzgerald;romantic;1958
+823;all by myself;blues;ella fitzgerald;violence;1958
+824;dearest darling;blues;bo diddley;romantic;1958
+825;get thee behind me satan;blues;ella fitzgerald;night/time;1958
+826;bad blood;blues;champion jack dupree;violence;1958
+827;somebody in my home;blues;howlin' wolf;sadness;1958
+828;yes indeed!;blues;ray charles;violence;1958
+829;strollin';blues;champion jack dupree;obscene;1958
+830;bess you is my woman now;blues;ella fitzgerald;night/time;1958
+831;it ain't necessarily so;blues;ella fitzgerald;world/life;1958
+832;little turtle dove;blues;bobby day;music;1958
+833;the right time;blues;ray charles;night/time;1958
+834;the blues are brewin';blues;billie holiday;music;1958
+835;guilty;blues;billie holiday;romantic;1958
+836;blackjack;blues;ray charles;sadness;1958
+837;oh baby doll;blues;chuck berry;music;1958
+838;hush your mouth;blues;bo diddley;violence;1958
+839;all or nothing at all;blues;billie holiday;sadness;1958
+840;i got plenty o' nuttin';blues;ella fitzgerald;sadness;1958
+841;no place to go (you gonna wreck my life);blues;howlin' wolf;world/life;1958
+842;love is here to stay;blues;billie holiday;music;1958
+843;lover man;blues;billie holiday;romantic;1958
+844;moanin' at midnight;blues;howlin' wolf;music;1958
+845;who do you love;blues;bo diddley;violence;1958
+846;how many more years;blues;howlin' wolf;violence;1958
+847;april in paris;blues;billie holiday;sadness;1958
+848;evil (is going on);blues;howlin' wolf;obscene;1958
+849;forty four;blues;howlin' wolf;obscene;1958
+850;mood indigo;blues;nina simone;music;1958
+851;bring it to jerome;blues;bo diddley;music;1958
+852;fever;blues;little willie john;romantic;1958
+853;candy;blues;big maybelle;romantic;1958
+854;love me or leave me;blues;nina simone;night/time;1958
+855;now or never;blues;billie holiday;night/time;1958
+856;ill wind;blues;billie holiday;music;1958
+857;remember;blues;ella fitzgerald;world/life;1958
+858;i love paris;blues;screamin' jay hawkins;music;1958
+859;if you are but a dream;blues;screamin' jay hawkins;romantic;1958
+860;saving my life for you;blues;bobby day;world/life;1958
+861;swing low, sweet chariot;blues;screamin' jay hawkins;music;1958
+862;strange things happening every day;blues;sister rosetta tharpe;world/life;1958
+863;time to say goodbye;blues;b.b. king;night/time;1958
+864;deep purple;blues;screamin' jay hawkins;romantic;1958
+865;so long baby;blues;bobby day;night/time;1958
+866;i love you so;blues;b.b. king;romantic;1958
+867;i've got papers on you, baby;blues;b.b. king;obscene;1958
+868;the fool;blues;b.b. king;sadness;1958
+869;talkin' 'bout you;blues;ray charles;obscene;1958
+870;yellow coat;blues;screamin' jay hawkins;obscene;1958
+871;what you want wid bess?;blues;ella fitzgerald;romantic;1958
+872;temptation;blues;screamin' jay hawkins;romantic;1958
+873;orange colored sky;blues;screamin' jay hawkins;obscene;1958
+874;always;blues;ella fitzgerald;world/life;1958
+875;a woman is a sometime thing;blues;ella fitzgerald;romantic;1958
+876;let's face the music and dance;blues;ella fitzgerald;music;1958
+877;it's too late;blues;chuck willis;sadness;1958
+878;it's a lovely day today;blues;ella fitzgerald;romantic;1958
+879;oh, doctor jesus;blues;ella fitzgerald;night/time;1958
+880;la jaunda;blues;chuck berry;romantic;1958
+881;john henry;blues;dave van ronk;violence;1959
+882;why don't you do right;blues;ruth brown;obscene;1959
+883;that's my home;blues;louis prima;music;1959
+884;let me explain;blues;the cadillacs;violence;1959
+885;so rare;blues;ella fitzgerald;obscene;1959
+886;the music goes 'round and around;blues;louis prima;music;1959
+887;swingin' shepherd blues;blues;ella fitzgerald;music;1959
+888;moonglow;blues;louis prima;music;1959
+889;of thee i sing;blues;ella fitzgerald;music;1959
+890;it's not for me to say;blues;billie holiday;world/life;1959
+891;i'll never be the same;blues;ella fitzgerald;sadness;1959
+892;i've grown accustomed to his face;blues;ella fitzgerald;violence;1959
+893;beat me daddy eight to the bar;blues;ella fitzgerald;obscene;1959
+894;the real american folk song;blues;ella fitzgerald;music;1959
+895;deed i do;blues;ray charles;world/life;1959
+896;when your lover has gone;blues;ray charles;sadness;1959
+897;i was doing all right;blues;ella fitzgerald;night/time;1959
+898;it's the talk of the town;jazz;gene ammons;sadness;1950
+899;you go to my head;jazz;gene ammons;violence;1950
+900;yesterdays;jazz;bud powell;music;1950
+901;stranger in paradise;jazz;tony bennett;sadness;1950
+902;zing-a zing-a zing boom;jazz;dean martin;sadness;1950
+903;be honest with me;jazz;dean martin;romantic;1950
+904;three wishes;jazz;dean martin;sadness;1950
+905;just for fun;jazz;dean martin;sadness;1950
+906;absence makes the heart grow fonder (for somebody else);jazz;dean martin;sadness;1950
+907;vieni su (say you love me, too);jazz;dean martin;night/time;1950
+908;the money song;jazz;dean martin;obscene;1950
+909;i don't care if the sun don't shine;jazz;dean martin;romantic;1950
+910;i don't know why (i just do);jazz;erroll garner;obscene;1950
+911;i'll remember april;jazz;george shearing;romantic;1950
+912;here in my arms;jazz;doris day;romantic;1950
+913;an affair to remember;jazz;vic damone;world/life;1950
+914;conception;jazz;george shearing;violence;1950
+915;september in the rain;jazz;george shearing;music;1950
+916;pick yourself up;jazz;george shearing;violence;1950
+917;oh me! oh my! oh you!;jazz;doris day;romantic;1950
+918;i know that you know;jazz;doris day;romantic;1950
+919;muskrat ramble;jazz;dean martin;music;1950
+920;that certain party;jazz;dean martin;obscene;1950
+921;love me, pretty baby;jazz;dizzy gillespie;music;1951
+922;mulligan's too;jazz;gerry mulligan;music;1951
+923;i ran all the way home;jazz;dean martin;romantic;1951
+924;christmas story;jazz;doris day;music;1951
+925;you're getting to be a habit with me;jazz;doris day;sadness;1951
+926;santa claus is comin' to town;jazz;bing crosby;obscene;1951
+927;sailors' polka;jazz;dean martin;music;1951
+928;love is the sweetest thing;jazz;ray noble;music;1951
+929;yesterdays;jazz;stan kenton;romantic;1951
+930;solitaire;jazz;dean martin;sadness;1951
+931;moonlight bay;jazz;doris day;music;1951
+932;if;jazz;dean martin;world/life;1951
+933;monk's mood;jazz;thelonious monk;music;1951
+934;winter wonderland;jazz;the andrews sisters;music;1951
+935;school days;jazz;dizzy gillespie;obscene;1951
+936;i'll always love you (day after day);jazz;dean martin;sadness;1951
+937;solitude;jazz;duke ellington;music;1951
+938;i'm in love with you;jazz;dean martin;sadness;1951
+939;rock-a-bye your baby with a dixie melody;jazz;dean martin;music;1951
+940;love ya;jazz;doris day;feelings;1951
+941;till we meet again;jazz;doris day;romantic;1951
+942;something to remember you by;jazz;ahmad jamal;obscene;1951
+943;but not for me;jazz;benny carter;obscene;1951
+944;wham! bam! thank you, ma'am!;jazz;dean martin;sadness;1951
+945;beside you;jazz;dean martin;romantic;1951
+946;indian summer;jazz;miles davis;night/time;1951
+947;april in paris;jazz;doris day;sadness;1952
+948;love me or leave me;jazz;gerry mulligan quartet;night/time;1952
+949;second chance;jazz;dean martin;night/time;1952
+950;what's new;jazz;oscar peterson;romantic;1952
+951;silencio;jazz;noro morales;violence;1952
+952;bet-i-cha;jazz;dean martin;music;1952
+953;east of the sun (and west of the moon);jazz;oscar peterson;romantic;1952
+954;ask me now;jazz;thelonious monk;sadness;1952
+955;cold cold heart;jazz;tony bennett;sadness;1952
+956;kiss;jazz;dean martin;romantic;1952
+957;you go to my head;jazz;oscar peterson;violence;1952
+958;oh marie;jazz;dean martin;music;1952
+959;in a mellow tone;jazz;oscar peterson;music;1952
+960;i'm yours;jazz;dean martin;sadness;1952
+961;prelude to a kiss;jazz;oscar peterson;sadness;1952
+962;how high the moon;jazz;oscar peterson;violence;1952
+963;i wanna be loved;jazz;tony bennett;sadness;1952
+964;until;jazz;dean martin;romantic;1952
+965;why not;jazz;count basie;romantic;1952
+966;all i have to give you is my love;jazz;dean martin;world/life;1952
+967;bunny;jazz;count basie;music;1952
+968;won't you surrender;jazz;dean martin;romantic;1952
+969;hominy grits;jazz;dean martin;violence;1952
+970;blue smoke (kohu-auwahi);jazz;dean martin;sadness;1952
+971;i know a dream when i see one;jazz;dean martin;sadness;1952
+972;sure thing;jazz;count basie;obscene;1952
+973;the boulevard of broken dreams;jazz;tony bennett;sadness;1952
+974;as you are;jazz;dean martin;romantic;1952
+975;it's you or no one;jazz;tony scott;obscene;1953
+976;swing low...sweet cadillac;jazz;dizzy gillespie;music;1953
+977;jayhawk;jazz;buck clayton;obscene;1953
+978;winter wonderland;jazz;tony bennett;music;1953
+979;the christmas waltz;jazz;doris day;music;1953
+980;the nearness of you;jazz;gerry mulligan;romantic;1953
+981;i was doing all right;jazz;oscar peterson;night/time;1953
+982;i've got you under my skin;jazz;oscar peterson;violence;1953
+983;i know;jazz;sonny rollins;sadness;1953
+984;lullaby of birdland;jazz;erroll garner;romantic;1953
+985;love is here to stay;jazz;marian mcpartland;night/time;1953
+986;autumn in new york;jazz;charlie parker;romantic;1953
+987;so rare;jazz;george shearing;sadness;1953
+988;night and day;jazz;charlie parker;sadness;1953
+989;lullaby of birdland;jazz;george shearing;romantic;1953
+990;twilight;jazz;mary lou williams;obscene;1953
+991;no moe;jazz;sonny rollins;obscene;1953
+992;night and day;jazz;oscar peterson;romantic;1953
+993;blues go away!;jazz;count basie;world/life;1953
+994;sweet and lovely;jazz;george shearing;romantic;1953
+995;love me or leave me;jazz;chet baker;night/time;1953
+996;crazy rhythm;jazz;stan getz;obscene;1953
+997;yesterdays;jazz;marian mcpartland;romantic;1953
+998;if you were the only girl;jazz;doris day;world/life;1953
+999;i'll forget you;jazz;doris day;violence;1953
+1000;let's call this;jazz;thelonious monk;obscene;1954
+1001;my future just passed;jazz;chet baker;world/life;1954
+1002;it's you or no one;jazz;chet baker;world/life;1954
+1003;loveless love;jazz;louis armstrong;music;1954
+1004;swanee;jazz;judy garland;music;1954
+1005;it's a new world;jazz;judy garland;world/life;1954
+1006;hagnes;jazz;roy haynes;music;1954
+1007;surrey with the fringe on top;jazz;oscar peterson;obscene;1954
+1008;this can't be love;jazz;oscar peterson;world/life;1954
+1009;prelude to a kiss;jazz;duke ellington;music;1954
+1010;make it soon;jazz;doris day;obscene;1954
+1011;things ain't what they used to be;jazz;duke ellington;obscene;1954
+1012;soft as the starlight;jazz;doris day;romantic;1954
+1013;anyone can fall in love;jazz;doris day;sadness;1954
+1014;here's what i'm here for;jazz;judy garland;world/life;1954
+1015;you hit the spot;jazz;sarah vaughan;obscene;1954
+1016;the memphis blues (or mister crump);jazz;louis armstrong;music;1954
+1017;time on my hands;jazz;oscar peterson;romantic;1954
+1018;bill;jazz;oscar peterson;sadness;1954
+1019;one more time;jazz;dean martin;music;1954
+1020;i never had a chance;jazz;dean martin;romantic;1954
+1021;with a song in my heart;jazz;doris day;music;1954
+1022;prelude to a kiss;jazz;sarah vaughan;sadness;1954
+1023;long gone (from the bowlin' green);jazz;louis armstrong;night/time;1954
+1024;topsy;jazz;paul bley;obscene;1954
+1025;my heart;jazz;paul bley;world/life;1954
+1026;it might as well be spring;jazz;margaret whiting;music;1954
+1027;bad news;jazz;rosemary clooney;obscene;1954
+1028;goodbye;jazz;chet baker;music;1954
+1029;you're the right one;jazz;dean martin;night/time;1954
+1030;snow;jazz;rosemary clooney;music;1954
+1031;aunt hagar's blues;jazz;louis armstrong;music;1954
+1032;if i could sing like bing;jazz;dean martin;music;1954
+1033;the man that got away;jazz;judy garland;world/life;1954
+1034;money burns a hole in my pocket;jazz;dean martin;obscene;1954
+1035;i'm glad there is you;jazz;sarah vaughan;world/life;1954
+1036;reflections;jazz;thelonious monk;obscene;1954
+1037;there will never be another you;jazz;chet baker;romantic;1954
+1038;with my eyes wide open i'm dreaming;jazz;dean martin;sadness;1954
+1039;the christmas blues;jazz;dean martin;music;1954
+1040;carolina in the morning;jazz;dean martin;feelings;1954
+1041;there's my lover;jazz;dean martin;romantic;1954
+1042;long, long ago;jazz;dean martin;night/time;1954
+1043;white christmas;jazz;bing crosby;music;1954
+1044;hold me in your arms;jazz;doris day;romantic;1954
+1045;poutin';jazz;ben webster;sadness;1954
+1046;jim;jazz;sarah vaughan;sadness;1954
+1047;embraceable you;jazz;sarah vaughan;romantic;1954
+1048;under the bridges of paris;jazz;dean martin;romantic;1954
+1049;lullaby of birdland;jazz;sarah vaughan;romantic;1954
+1050;pretend;jazz;nat king cole;world/life;1954
+1051;september song;jazz;sarah vaughan;world/life;1954
+1052;smoke gets in your eyes;jazz;thelonious monk;sadness;1954
+1053;a portrait of jennie;jazz;nat king cole trio;sadness;1954
+1054;what'll i do?;jazz;nat king cole trio;romantic;1954
+1055;lost april;jazz;nat king cole trio;world/life;1954
+1056;snow;jazz;bing crosby;music;1954
+1057;contraste;jazz;dizzy gillespie;obscene;1954
+1058;count your blessings instead of sheep;jazz;bing crosby;world/life;1954
+1059;jungla;jazz;dizzy gillespie;obscene;1954
+1060;love, you didn't do right by me;jazz;peggy lee;obscene;1954
+1061;ready, willing and able;jazz;doris day;obscene;1954
+1062;don't you remember?;jazz;dean martin;world/life;1954
+1063;'til i find you;jazz;dean martin;sadness;1954
+1064;that's all i want from you;jazz;dean martin;world/life;1954
+1065;i feel a song comin' on;jazz;dean martin;music;1954
+1066;that's what i like;jazz;dean martin;romantic;1954
+1067;love me, love me;jazz;dean martin;romantic;1954
+1068;darn that dream;jazz;doris day;romantic;1954
+1069;carolina moon;jazz;dean martin;night/time;1954
+1070;lose that long face;jazz;judy garland;violence;1954
+1071;mandy;jazz;rosemary clooney;music;1954
+1072;out of nowhere;jazz;dave brubeck;sadness;1954
+1073;moving out;jazz;sonny rollins;obscene;1954
+1074;i want you;jazz;dean martin;romantic;1954
+1075;if i should love again;jazz;dean martin;world/life;1954
+1076;a tree in the meadow;jazz;margaret whiting;romantic;1954
+1077;count your blessings instead of sheep;jazz;rosemary clooney;world/life;1954
+1078;what'll i do;jazz;chet baker;romantic;1954
+1079;moments like this;jazz;dean martin;romantic;1954
+1080;september song;jazz;erroll garner;world/life;1955
+1081;all of me;jazz;louis armstrong;romantic;1955
+1082;it all depends on you;jazz;doris day;obscene;1955
+1083;i can't believe that you're in love with me;jazz;tony bennett;world/life;1955
+1084;this time the dreams on me;jazz;june christy;romantic;1955
+1085;i fall in love too easily;jazz;tony bennett;sadness;1955
+1086;mean to me;jazz;doris day;romantic;1955
+1087;after you've gone;jazz;judy garland;feelings;1955
+1088;do you remember;jazz;eartha kitt;night/time;1955
+1089;fine and dandy;jazz;anita o'day;sadness;1955
+1090;sometimes i'm happy;jazz;sarah vaughan;violence;1955
+1091;give me the simple life;jazz;tony bennett;world/life;1955
+1092;(what did i do to be so) black and blue;jazz;louis armstrong;violence;1955
+1093;i'm afraid the masquerade is over;jazz;helen merrill;sadness;1955
+1094;beautiful love;jazz;helen merrill;romantic;1955
+1095;sing a rainbow;jazz;peggy lee;music;1955
+1096;soon;jazz;sarah vaughan;music;1955
+1097;someday my prince will come;jazz;the dave brubeck quartet;romantic;1955
+1098;ramona;jazz;louis armstrong;music;1955
+1099;sweet savannah sue;jazz;louis armstrong;romantic;1955
+1100;blue turning grey over you;jazz;louis armstrong;romantic;1955
+1101;the day that the circus left town;jazz;eartha kitt;sadness;1955
+1102;my one and only love;jazz;cal tjader;obscene;1955
+1103;doug's blues;jazz;donald byrd;obscene;1955
+1104;birth of the blues;jazz;sammy davis jr.;music;1955
+1105;bye bye blackbird;jazz;miles davis;sadness;1955
+1106;there's no you;jazz;miles davis;sadness;1955
+1107;without a song;jazz;stan getz;music;1955
+1108;hot house;jazz;dizzy gillespie;obscene;1955
+1109;you took advantage of me;jazz;carmen mcrae;sadness;1955
+1110;honeysuckle rose;jazz;anita o'day;romantic;1955
+1111;honeysuckle rose;jazz;louis armstrong;romantic;1955
+1112;strangers in the starlight;jazz;eartha kitt;romantic;1955
+1113;anything goes;jazz;helen merrill;world/life;1955
+1114;somewhere;jazz;dave brubeck;world/life;1955
+1115;solitude;jazz;thelonious monk;sadness;1955
+1116;i cried for you;jazz;sarah vaughan;sadness;1955
+1117;it don't mean a thing (if it ain't got that swing);jazz;thelonious monk;music;1955
+1118;it's a blue world;jazz;the four freshmen;world/life;1955
+1119;all the things you are;jazz;dizzy gillespie;romantic;1955
+1120;my foolish heart;jazz;margaret whiting;sadness;1955
+1121;swingin';jazz;clifford brown;music;1955
+1122;exactly like you;jazz;erroll garner;world/life;1955
+1123;you'd be so nice to come home to;jazz;helen merrill;music;1955
+1124;after hours;jazz;sarah vaughan;world/life;1955
+1125;you're mine, you;jazz;sarah vaughan;romantic;1955
+1126;i wonder;jazz;louis armstrong;sadness;1955
+1127;everything happens to me;jazz;stan getz;world/life;1955
+1128;your cheatin' heart;jazz;louis armstrong;sadness;1955
+1129;stella by starlight;jazz;miles davis;music;1955
+1130;i'll take romance;jazz;june christy;romantic;1955
+1131;my romance;jazz;dave brubeck;romantic;1955
+1132;i'll remember april;jazz;carmen mcrae;romantic;1955
+1133;my reverie;jazz;sarah vaughan;world/life;1955
+1134;all the things you are;jazz;erroll garner;world/life;1955
+1135;keepin' out of mischief now;jazz;louis armstrong;obscene;1955
+1136;love me or leave me;jazz;doris day;night/time;1955
+1137;deep purple;jazz;sarah vaughan;sadness;1955
+1138;what's new;jazz;helen merrill;world/life;1955
+1139;exactly like you;jazz;dizzy gillespie;obscene;1955
+1140;like someone in love;jazz;dave brubeck;sadness;1955
+1141;nobody else but me;jazz;stan getz;feelings;1955
+1142;just friends;jazz;sarah vaughan;sadness;1955
+1143;warm december;jazz;julie london;romantic;1956
+1144;fools rush in;jazz;julie london;sadness;1956
+1145;life is just a bowl of cherries;jazz;judy garland;world/life;1956
+1146;would'n you;jazz;miles davis;romantic;1956
+1147;i wish you love;jazz;dean martin;sadness;1956
+1148;easy living;jazz;bill evans;world/life;1956
+1149;let me love you tonight;jazz;dean martin;romantic;1956
+1150;smoke gets in your eyes;jazz;eartha kitt;sadness;1956
+1151;somebody loves you;jazz;dean martin;world/life;1956
+1152;thad's blues;jazz;hank mobley;obscene;1956
+1153;i hear music;jazz;nat king cole;music;1956
+1154;i want to be happy;jazz;nat king cole;world/life;1956
+1155;my romance;jazz;bill evans;sadness;1956
+1156;you are too beautiful;jazz;thelonious monk;sadness;1956
+1157;stella by starlight;jazz;nat king cole;sadness;1956
+1158;goodbye;jazz;rosemary clooney;world/life;1956
+1159;is it true what they say about dixie?;jazz;dean martin;romantic;1956
+1160;moments like this;jazz;julie london;romantic;1956
+1161;you're breaking my heart (mattinata);jazz;dean martin;sadness;1956
+1162;there's no tomorrow;jazz;dean martin;romantic;1956
+1163;take me in your arms (torna a surriento);jazz;dean martin;sadness;1956
+1164;pardon;jazz;dean martin;world/life;1956
+1165;(when your heart's on fire) smoke gets in your eyes;jazz;vic damone;sadness;1956
+1166;four;jazz;miles davis quartet;world/life;1956
+1167;c'est si bon;jazz;eartha kitt;romantic;1956
+1168;let's fall in love;jazz;vic damone;violence;1956
+1169;memories are made of this;jazz;dean martin;world/life;1956
+1170;innamorata;jazz;dean martin;romantic;1956
+1171;but not for me;jazz;chet baker;sadness;1956
+1172;that old feeling;jazz;chet baker;sadness;1956
+1173;i get along without you very well (except sometimes);jazz;chet baker;night/time;1956
+1174;it's always you;jazz;chet baker;music;1956
+1175;i fall in love too easily;jazz;chet baker;sadness;1956
+1176;the thrill is gone;jazz;chet baker;romantic;1956
+1177;it's bad for me;jazz;rosemary clooney;feelings;1956
+1178;my heart belongs to daddy;jazz;eartha kitt;sadness;1956
+1179;non dimenticar;jazz;dean martin;romantic;1956
+1180;september in the rain;jazz;julie london;music;1956
+1181;i know that you know;jazz;sonny stitt;obscene;1956
+1182;i have but one heart ('o marenariello);jazz;dean martin;world/life;1956
+1183;sweet leilani;jazz;bing crosby;romantic;1956
+1184;this years kisses;jazz;lester young;romantic;1956
+1185;ellis in wonderland;jazz;herb ellis;sadness;1956
+1186;let's do it;jazz;eartha kitt;sadness;1956
+1187;valse hot;jazz;sonny rollins;obscene;1956
+1188;blues in the night (my mama done tol' me);jazz;louis armstrong;music;1957
+1189;autumn leaves;jazz;keely smith;music;1957
+1190;you're my thrill;jazz;chet baker;romantic;1957
+1191;so this is love;jazz;dave brubeck;obscene;1957
+1192;sonny's mood;jazz;sonny clark;music;1957
+1193;i surrender dear;jazz;thelonious monk;sadness;1957
+1194;love me or leave me;jazz;anita o'day;sadness;1957
+1195;and that reminds me;jazz;della reese;music;1957
+1196;too close for comfort;jazz;count basie;romantic;1957
+1197;night and day;jazz;fred astaire;night/time;1957
+1198;just you;reggae;prince buster;obscene;1963
+1199;they got to come;reggae;prince buster;violence;1963
+1200;next door neighbour;reggae;owen gray;world/life;1964
+1201;simmer down;reggae;bob marley & the wailers;violence;1964
+1202;i got a pain;reggae;prince buster;obscene;1964
+1203;sammy dead;reggae;eric morris;violence;1964
+1204;lucky 7;reggae;prince buster;world/life;1964
+1205;coolie boy;reggae;don drummond;obscene;1965
+1206;long time now;reggae;the ethiopians;night/time;1966
+1207;engine 54;reggae;the ethiopians;sadness;1966
+1208;give me your love;reggae;the ethiopians;night/time;1966
+1209;dark street;reggae;prince buster;obscene;1967
+1210;dance with me;reggae;the paragons;obscene;1967
+1211;oh love (live);reggae;prince buster;obscene;1967
+1212;mercy, mercy, mercy;reggae;john holt;world/life;1967
+1213;true, true, true;reggae;ken parker;romantic;1967
+1214;shanty town;reggae;prince buster;obscene;1967
+1215;sweet music;reggae;desmond dekker;music;1967
+1216;i am free;reggae;the gaylads;violence;1967
+1217;let him try;reggae;alton ellis;sadness;1967
+1218;a silver bird;reggae;the paragons;world/life;1967
+1219;unity;reggae;desmond dekker;world/life;1967
+1220;rude boy train;reggae;desmond dekker;obscene;1967
+1221;blackbird singing;reggae;the paragons;world/life;1967
+1222;wiseman;reggae;desmond dekker;world/life;1967
+1223;don't stay away;reggae;phyllis dillon;sadness;1967
+1224;the first time i saw you;reggae;the paragons;violence;1967
+1225;she want it;reggae;the gaylads;obscene;1967
+1226;don't touch me tomato;reggae;phyllis dillon;feelings;1967
+1227;why;reggae;alton ellis;world/life;1967
+1228;perfidia;reggae;phyllis dillon;sadness;1967
+1229;breaking up;reggae;alton ellis;sadness;1968
+1230;willow tree;reggae;alton ellis;sadness;1968
+1231;in love with you;reggae;the heptones;world/life;1968
+1232;i can't stand it;reggae;alton ellis;violence;1968
+1233;i want everything;reggae;the tennors;obscene;1968
+1234;ride your donkey;reggae;the tennors;music;1968
+1235;what the world needs now is love;reggae;tommy mccook;obscene;1968
+1236;out of love (i'm the one love forgot);reggae;the uniques;obscene;1968
+1237;love is all i had;reggae;phyllis dillon;world/life;1968
+1238;angel of the morning;reggae;joya landis;sadness;1968
+1239;moonlight lover;reggae;joya landis;romantic;1968
+1240;rough rider;reggae;prince buster;night/time;1968
+1241;equal rights;reggae;peter tosh;night/time;1968
+1242;gypsy woman;reggae;the uniques;romantic;1968
+1243;ketchy shuby;reggae;peter tosh;night/time;1968
+1244;walk with love;reggae;prince buster;sadness;1968
+1245;speak no evil;reggae;the uniques;violence;1968
+1246;my heart is gone;reggae;ken boothe;sadness;1968
+1247;reggae girl;reggae;the tennors;obscene;1968
+1248;party time;reggae;the heptones;world/life;1968
+1249;the baddest;reggae;prince buster;obscene;1969
+1250;drink milk;reggae;justin hinds;obscene;1969
+1251;wondering;reggae;the hippy boys;world/life;1969
+1252;when you call my name;reggae;stranger cole;sadness;1969
+1253;my girl;reggae;glen adams;obscene;1969
+1254;shang i;reggae;the hippy boys;music;1969
+1255;bla bla bla;reggae;the maytals;music;1969
+1256;everything crash;reggae;the ethiopians;violence;1969
+1257;scare him;reggae;the maytals;romantic;1969
+1258;long shot kick de bucket;reggae;the pioneers;violence;1969
+1259;mama look deh;reggae;the reggae boys;music;1969
+1260;hanging fire;reggae;jimmy cliff;world/life;1969
+1261;reggae night;reggae;jimmy cliff;night/time;1969
+1262;roots woman;reggae;jimmy cliff;romantic;1969
+1263;fu man chu;reggae;desmond dekker;violence;1969
+1264;jungle lion;reggae;"lee ""scratch"" perry";music;1969
+1265;we all are one;reggae;jimmy cliff;world/life;1969
+1266;roots radical;reggae;jimmy cliff;sadness;1969
+1267;third world people;reggae;jimmy cliff;world/life;1969
+1268;special;reggae;jimmy cliff;night/time;1969
+1269;john jones;reggae;rudy mills;violence;1969
+1270;double wheel;reggae;the upsetters;obscene;1969
+1271;doctor no go;reggae;the hippy boys;sadness;1969
+1272;challenge;reggae;the hippy boys;obscene;1969
+1273;moon walk;reggae;the hippy boys;obscene;1969
+1274;one (heart, one love);reggae;the ethiopians;world/life;1969
+1275;seven letters;reggae;derrick morgan;music;1969
+1276;african zulu;reggae;the hippy boys;obscene;1969
+1277;kill them all;reggae;the upsetters;violence;1969
+1278;long time;reggae;derrick harriott;obscene;1970
+1279;monkey man;reggae;the upsetters;obscene;1970
+1280;now you are gone;reggae;the pioneers;world/life;1970
+1281;why baby why;reggae;ken boothe;sadness;1970
+1282;joy joy;reggae;the ethiopians;world/life;1970
+1283;no man is an island;reggae;dennis brown;world/life;1970
+1284;money day;reggae;the pioneers;obscene;1970
+1285;peace in your mind (peace of mind);reggae;bob andy;obscene;1970
+1286;put a little love in your heart;reggae;marcia griffiths;world/life;1970
+1287;you can get it if you really want;reggae;desmond dekker;world/life;1970
+1288;the loser;reggae;derrick harriott;sadness;1970
+1289;message from a black man;reggae;derrick harriott;violence;1970
+1290;things a get bad to worse;reggae;the ethiopians;world/life;1970
+1291;river bed;reggae;the gaylads;violence;1970
+1292;stereo freeze;reggae;jackie mittoo;music;1970
+1293;dream dream;reggae;the gaylads;world/life;1970
+1294;going to a ball;reggae;dennis brown;world/life;1970
+1295;sweet sensation;reggae;the melodians;sadness;1970
+1296;my heart is gone;reggae;john holt;sadness;1971
+1297;mother funk;reggae;jackie mittoo;violence;1971
+1298;make it with you;reggae;dennis brown;sadness;1971
+1299;rock away;reggae;u-roy;sadness;1971
+1300;change your style;reggae;dennis brown;violence;1971
+1301;peace and love;reggae;u-roy;world/life;1971
+1302;you have caught me;reggae;the melodians;world/life;1971
+1303;love divine;reggae;john holt;violence;1971
+1304;do you want me;reggae;john holt;world/life;1971
+1305;my girl;reggae;the techniques;sadness;1971
+1306;i'm gonna be free;reggae;the ethiopians;world/life;1972
+1307;it's alright;reggae;slim smith;obscene;1972
+1308;money love;reggae;slim smith;obscene;1972
+1309;my happiness;reggae;prince buster;obscene;1972
+1310;too experience;reggae;bob andy;obscene;1972
+1311;i am alright;reggae;big youth;world/life;1972
+1312;everything i own;reggae;ken boothe;sadness;1972
+1313;screaming target;reggae;big youth;violence;1972
+1314;crying over you;reggae;ken boothe;sadness;1972
+1315;pride & ambition;reggae;leroy smart;obscene;1972
+1316;close to you;reggae;phyllis dillon;violence;1972
+1317;blinded by love;reggae;slim smith;violence;1972
+1318;big five;reggae;prince buster;night/time;1972
+1319;love of a woman;reggae;horace andy;romantic;1972
+1320;move me;reggae;the upsetters;violence;1972
+1321;please don't go;reggae;horace andy;romantic;1972
+1322;killing me softly with her song;reggae;john holt;music;1973
+1323;i could dance all night;reggae;john holt;obscene;1973
+1324;come dance with me;reggae;john holt;violence;1973
+1325;maybe some day;reggae;john holt;violence;1973
+1326;fancy make up;reggae;john holt;world/life;1973
+1327;help me make it through the night;reggae;john holt;night/time;1973
+1328;struggling man;reggae;jimmy cliff;world/life;1973
+1329;duppy conqueror;reggae;bob marley & the wailers;violence;1973
+1330;get up, stand up;reggae;bob marley & the wailers;violence;1973
+1331;no sympathy;reggae;the wailers;world/life;1973
+1332;i see you;reggae;toots & the maytals;music;1973
+1333;hallelujah time;reggae;the wailers;music;1973
+1334;pass it on;reggae;the wailers;world/life;1973
+1335;take me home, country roads;reggae;toots & the maytals;music;1973
+1336;having a party;reggae;toots & the maytals;obscene;1973
+1337;sailing on;reggae;toots & the maytals;music;1973
+1338;sooner or later;reggae;jimmy cliff;violence;1973
+1339;rastaman chant;reggae;the wailers;music;1973
+1340;put it on;reggae;the wailers;feelings;1973
+1341;high tide or low tide;reggae;bob marley & the wailers;night/time;1973
+1342;400 years;reggae;the wailers;world/life;1973
+1343;concrete jungle;reggae;bob marley & the wailers;world/life;1973
+1344;country road;reggae;toots & the maytals;music;1973
+1345;pressure drop;reggae;toots & the maytals;obscene;1973
+1346;i shot the sheriff;reggae;the wailers;violence;1973
+1347;gold and silver;reggae;the maytals;obscene;1973
+1348;pomps & pride;reggae;toots & the maytals;sadness;1973
+1349;back out with it;reggae;wailing souls;obscene;1973
+1350;things & time;reggae;wailing souls;sadness;1973
+1351;better days are coming;reggae;jimmy cliff;world/life;1973
+1352;pack up;reggae;wailing souls;violence;1973
+1353;thou shall not steal;reggae;wailing souls;sadness;1973
+1354;come on people;reggae;jimmy cliff;world/life;1973
+1355;let's seize the time;reggae;jimmy cliff;night/time;1973
+1356;i can't live without you;reggae;jimmy cliff;world/life;1973
+1357;jah work;reggae;augustus pablo;obscene;1973
+1358;loving spirit;reggae;the maytals;feelings;1973
+1359;tag along;reggae;horace andy;night/time;1974
+1360;version;reggae;clinton fearon;world/life;1974
+1361;let love in;reggae;dennis brown;sadness;1974
+1362;ital fighting;reggae;dillinger;obscene;1974
+1363;cornbread;reggae;dillinger;obscene;1974
+1364;talkin' blues;reggae;bob marley & the wailers;music;1974
+1365;i want to know;reggae;jimmy cliff;feelings;1974
+1366;dread locks;reggae;lee perry & the upsetters;obscene;1974
+1367;spinning dub;reggae;the revolutionaries;obscene;1975
+1368;resting place;reggae;burning spear;world/life;1975
+1369;slavery days;reggae;burning spear;world/life;1975
+1370;old marcus garvey;reggae;burning spear;world/life;1975
+1371;three blind mice;reggae;max romeo;obscene;1975
+1372;love jah;reggae;dennis brown;world/life;1975
+1373;abendigo;reggae;the abyssinians;violence;1976
+1374;know jah today;reggae;the abyssinians;world/life;1976
+1375;black kill a black (black against black);reggae;gregory isaacs;violence;1976
+1376;my religion;reggae;gregory isaacs;obscene;1976
+1377;igziabeher (let jah be praised);reggae;peter tosh;violence;1976
+1378;big fight;reggae;prince far i;obscene;1976
+1379;get up, stand up;reggae;peter tosh;violence;1976
+1380;dear mother;reggae;jimmy cliff;romantic;1976
+1381;you're the only one;reggae;jimmy cliff;world/life;1976
+1382;long, long dread locks;reggae;linval thompson;night/time;1976
+1383;y mas gan;reggae;the abyssinians;world/life;1976
+1384;declaration of rights;reggae;the abyssinians;violence;1976
+1385;stepping razor;reggae;peter tosh;obscene;1976
+1386;african race;reggae;the abyssinians;violence;1976
+1387;salary is thin (the sun shines for me);reggae;gregory isaacs;sadness;1976
+1388;promise is a comfort;reggae;gregory isaacs;sadness;1976
+1389;brand new beggar;reggae;third world;world/life;1976
+1390;shadow;reggae;prince far 1;sadness;1976
+1391;let my days be long;reggae;the abyssinians;world/life;1976
+1392;i and i;reggae;the abyssinians;world/life;1976
+1393;doctor love;reggae;john holt;obscene;1976
+1394;fighting against conviction;reggae;bunny wailer;violence;1976
+1395;reincarnated souls;reggae;bunny wailer;world/life;1976
+1396;why must i cry;reggae;peter tosh;sadness;1976
+1397;roots, rock, reggae;reggae;bob marley & the wailers;music;1976
+1398;rat race;reggae;bob marley & the wailers;violence;1976
+1399;young generation dub;reggae;king tubby;violence;1976
+1400;war;reggae;bob marley & the wailers;violence;1976
+1401;no sympathy;reggae;peter tosh;world/life;1976
+1402;them never love poor marcus;reggae;mighty diamonds;violence;1976
+1403;can't stand the pressure;reggae;aswad;violence;1976
+1404;say so;reggae;king tubby;obscene;1976
+1405;ballistic affair;reggae;leroy smart;obscene;1976
+1406;shame and pride;reggae;mighty diamonds;world/life;1976
+1407;cry to me;reggae;bob marley & the wailers;sadness;1976
+1408;night shift;reggae;bob marley & the wailers;night/time;1976
+1409;jah jah is the conqueror;reggae;linval thompson;violence;1976
+1410;fever;reggae;junior byles;romantic;1976
+1411;i need a roof;reggae;mighty diamonds;world/life;1976
+1412;back to africa;reggae;aswad;sadness;1976
+1413;door peep;reggae;burning spear;world/life;1976
+1414;mystery babylon;reggae;peter tosh;music;1976
+1415;mother;reggae;burning spear;violence;1976
+1416;rock away;reggae;gregory isaacs;sadness;1976
+1417;there is no end;reggae;the abyssinians;world/life;1976
+1418;natty take over;reggae;justin hinds & the dominoes;world/life;1976
+1419;i shall sing;reggae;toots & the maytals;music;1976
+1420;lion;reggae;burning spear;violence;1976
+1421;it's good;reggae;burning spear;world/life;1976
+1422;why me black brother why;reggae;mighty diamonds;violence;1976
+1423;tan and see;reggae;max romeo;night/time;1976
+1424;never you change;reggae;toots & the maytals;world/life;1976
+1425;stealing in the name of jah;reggae;max romeo;sadness;1976
+1426;natural natty;reggae;mighty diamonds;night/time;1976
+1427;if i follow my mind;reggae;jimmy cliff;night/time;1976
+1428;black soul;reggae;burning spear;violence;1976
+1429;children;reggae;burning spear;violence;1976
+1430;go seek your rights;reggae;mighty diamonds;violence;1976
+1431;i don't like it;reggae;leroy smart;obscene;1977
+1432;big eel;reggae;i-roy;obscene;1977
+1433;ark of the covenant;reggae;the congos;world/life;1977
+1434;the price of peace;reggae;jimmy cliff;world/life;1977
+1435;on my life;reggae;jimmy cliff;world/life;1977
+1436;be true;reggae;jimmy cliff;world/life;1977
+1437;culture;reggae;the ethiopians;violence;1977
+1438;hurry on;reggae;the ethiopians;night/time;1977
+1439;i love jah;reggae;the ethiopians;world/life;1977
+1440;let's kiss & say goodbye;reggae;john holt;romantic;1977
+1441;get ready;reggae;gregory isaacs;obscene;1977
+1442;stepping free;reggae;bob andy;violence;1977
+1443;revelation;reggae;bob andy;violence;1977
+1444;winter world of love;reggae;john holt;world/life;1977
+1445;who feels it (knows it);reggae;bob marley & the wailers;sadness;1977
+1446;police & thieves;reggae;junior murvin;violence;1977
+1447;let him go;reggae;bob marley & the wailers;romantic;1977
+1448;apartheid;reggae;peter tosh;violence;1977
+1449;jah guide;reggae;peter tosh;violence;1977
+1450;400 years;reggae;peter tosh;world/life;1977
+1451;vampire;reggae;peter tosh;violence;1977
+1452;babylon queendom;reggae;peter tosh;sadness;1977
+1453;you can't blame the youth;reggae;peter tosh;sadness;1977
+1454;do you remember;reggae;bob marley & the wailers;violence;1977
+1455;the sun;reggae;burning spear;night/time;1977
+1456;congoman;reggae;the congos;music;1977
+1457;guiltiness;reggae;bob marley & the wailers;world/life;1977
+1458;natural mystic;reggae;bob marley & the wailers;music;1977
+1459;two sevens clash;reggae;culture;world/life;1977
+1460;don't blame it on i;reggae;the congos;sadness;1977
+1461;jah pretty face;reggae;culture;music;1977
+1462;i'm alone in the wilderness;reggae;culture;feelings;1977
+1463;pirate days;reggae;culture;world/life;1977
+1464;natty dread taking over;reggae;culture;sadness;1977
+1465;it's a long way around;reggae;burning spear;obscene;1977
+1466;black disciples;reggae;burning spear;sadness;1977
+1467;when i am down;reggae;dennis brown;world/life;1978
+1468;truth and right;reggae;dennis brown;violence;1978
+1469;liberation;reggae;creation rebel;violence;1978
+1470;it's up to you;reggae;tetrack;obscene;1978
+1471;meditation;reggae;the abyssinians;romantic;1978
+1472;jah loves;reggae;the abyssinians;romantic;1978
+1473;dem a come;reggae;the abyssinians;world/life;1978
+1474;isn't it time;reggae;tetrack;night/time;1978
+1475;my time;reggae;dennis brown;night/time;1978
+1476;look within yourself;reggae;tetrack;world/life;1978
+1477;universal love (beyond the boundries);reggae;jimmy cliff;world/life;1978
+1478;she is a woman;reggae;jimmy cliff;romantic;1978
+1479;simmer down;reggae;johnny clarke;music;1978
+1480;take heed;reggae;johnny clarke;violence;1978
+1481;ride on girl;reggae;johnny clarke;obscene;1978
+1482;dread a dread;reggae;johnny clarke;violence;1978
+1483;declaration of rights;reggae;johnny clarke;violence;1978
+1484;i man come again;reggae;johnny clarke;obscene;1978
+1485;who have eyes to see;reggae;prince far i;violence;1978
+1486;blood dunza;reggae;johnny clarke;violence;1978
+1487;you left me standing by the door;reggae;jimmy cliff;sadness;1978
+1488;crisis;reggae;bob marley & the wailers;world/life;1978
+1489;cold sweat;reggae;third world;violence;1978
+1490;holy mount zion;reggae;culture;violence;1978
+1491;lonely streets;reggae;jimmy cliff;sadness;1978
+1492;love shine bright;reggae;culture;world/life;1978
+1493;behold;reggae;culture;music;1978
+1494;only jah jah know;reggae;tetrack;world/life;1978
+1495;better days;reggae;the heptones;obscene;1978
+1496;created by the father;reggae;gregory isaacs;music;1978
+1497;dub from creation;reggae;creation rebel;violence;1978
+1498;big fool;rock;ronnie self;sadness;1955
+1499;bop-a-lena;rock;ronnie self;obscene;1955
+1500;i heard the angels singing;rock;frankie laine;music;1956
+1501;i feel like my time ain't long;rock;frankie laine;obscene;1956
+1502;jamaica d.j.;rock;bill haley & his comets;music;1956
+1503;forgive me;rock;pat boone;sadness;1956
+1504;take me in your arms;rock;the platters;romantic;1956
+1505;i'm gonna sit right down and cry (over you);rock;elvis presley;feelings;1956
+1506;first in line;rock;elvis presley;romantic;1956
+1507;how's the world treating you;rock;elvis presley;world/life;1956
+1508;blue suede shoes;rock;elvis presley;music;1956
+1509;blue moon;rock;elvis presley;music;1956
+1510;love me;rock;elvis presley;sadness;1956
+1511;ready teddy;rock;elvis presley;night/time;1956
+1512;i'm counting on you;rock;elvis presley;romantic;1956
+1513;i flipped;rock;gene vincent & his blue caps;obscene;1956
+1514;jezebel;rock;gene vincent & his blue caps;violence;1956
+1515;jumps, giggles and shouts;rock;gene vincent & his blue caps;violence;1956
+1516;hot dog, buddy, buddy;rock;bill haley & his comets;night/time;1956
+1517;ain't she sweet;rock;gene vincent & his blue caps;romantic;1956
+1518;the crossing;rock;ray campi;obscene;1957
+1519;you can't catch me;rock;ray campi;obscene;1957
+1520;i didn't mean to be mean;rock;ray campi;obscene;1957
+1521;it ain't me;rock;ray campi;world/life;1957
+1522;give that love to me;rock;ray campi;obscene;1957
+1523;loretta;rock;ray campi;violence;1957
+1524;when will i be loved;rock;the everly brothers;romantic;1957
+1525;that ain't right;rock;frankie laine;sadness;1957
+1526;don't forget;rock;the platters;world/life;1957
+1527;o promise me;rock;the platters;music;1957
+1528;time and tide;rock;the platters;world/life;1957
+1529;darktown strutter's ball;rock;the platters;obscene;1957
+1530;rockin' chair;rock;frankie laine;night/time;1957
+1531;i'll be home for christmas;rock;elvis presley;music;1957
+1532;blueberry hill;rock;elvis presley;romantic;1957
+1533;it is no secret (what god can do);rock;elvis presley;sadness;1957
+1534;don't leave me now;rock;elvis presley;sadness;1957
+1535;true love;rock;elvis presley;romantic;1957
+1536;cat man;rock;gene vincent & his blue caps;obscene;1957
+1537;tell me why;rock;elvis presley;sadness;1957
+1538;cruisin';rock;gene vincent & his blue caps;obscene;1957
+1539;lonesome cowboy;rock;elvis presley;music;1957
+1540;tennessee;rock;carl perkins;music;1957
+1541;your true love;rock;carl perkins;romantic;1957
+1542;i sure miss you;rock;gene vincent & his blue caps;feelings;1957
+1543;sure to fall;rock;carl perkins;romantic;1957
+1544;unchained melody;rock;gene vincent & his blue caps;night/time;1957
+1545;gone, gone, gone;rock;carl perkins;feelings;1957
+1546;limbo dance;rock;the champs;violence;1958
+1547;keep it a secret;rock;gene vincent & his blue caps;sadness;1958
+1548;you'll never walk alone;rock;gene vincent & his blue caps;sadness;1958
+1549;flea brain;rock;gene vincent;violence;1958
+1550;midnight on a rainy monday;rock;frankie laine;violence;1958
+1551;you've changed;rock;frankie laine;world/life;1958
+1552;laura;rock;frankie laine;violence;1958
+1553;mam'selle;rock;frankie laine;romantic;1958
+1554;endless sleep;rock;marty wilde;sadness;1958
+1555;i'll be there;rock;the champs;violence;1958
+1556;raunchy;rock;the champs;obscene;1958
+1557;as long as i have you;rock;elvis presley;world/life;1958
+1558;young dreams;rock;elvis presley;romantic;1958
+1559;lover doll;rock;elvis presley;romantic;1958
+1560;new orleans;rock;elvis presley;world/life;1958
+1561;don't ask me why;rock;elvis presley;romantic;1958
+1562;king creole;rock;elvis presley;feelings;1958
+1563;love me tender;rock;elvis presley;romantic;1958
+1564;heartbreak hotel;rock;elvis presley;sadness;1958
+1565;jailhouse rock;rock;elvis presley;music;1958
+1566;that's when your heartaches begin;rock;elvis presley;world/life;1958
+1567;any way you want me (that's how i will be);rock;elvis presley;romantic;1958
+1568;trouble;rock;elvis presley;violence;1958
+1569;shake, rattle and roll;rock;carl perkins;obscene;1958
+1570;in my dreams;rock;gene vincent & his blue caps;romantic;1958
+1571;git it;rock;gene vincent & his blue caps;music;1958
+1572;someone watching over you;rock;the big bopper;violence;1958
+1573;santy anno;rock;the kingston trio;sadness;1958
+1574;that's all right;rock;carl perkins;night/time;1958
+1575;steadfast, loyal and true;rock;elvis presley;world/life;1958
+1576;fast freight;rock;the kingston trio;music;1958
+1577;my heart;rock;gene vincent;romantic;1959
+1578;oleanna;rock;the kingston trio;music;1959
+1579;gue gue;rock;the kingston trio;music;1959
+1580;wimoweh;rock;the kingston trio;night/time;1959
+1581;haul away;rock;the kingston trio;sadness;1959
+1582;ready teddy;rock;gene vincent;night/time;1959
+1583;the unfortunate miss bailey;rock;the kingston trio;feelings;1959
+1584;the long black rifle;rock;the kingston trio;violence;1959
+1585;i don't care if the sun don't shine;rock;elvis presley;romantic;1959
+1586;blow ye winds;rock;the kingston trio;music;1959
+1587;i forgot to remember to forget;rock;elvis presley;world/life;1959
+1588;you're a heartbreaker;rock;elvis presley;sadness;1959
+1589;we're gonna move;rock;elvis presley;obscene;1959
+1590;i beg of you;rock;elvis presley;romantic;1959
+1591;(now and then there's) a fool such as i;rock;elvis presley;sadness;1959
+1592;that's all right;rock;elvis presley;night/time;1959
+1593;one night;rock;elvis presley;world/life;1959
+1594;i got stung;rock;elvis presley;violence;1959
+1595;i was the one;rock;elvis presley;world/life;1959
+1596;blue moon of kentucky;rock;elvis presley;music;1959
+1597;twilight;rock;the paragons;world/life;1959
+1598;fast freight;rock;ritchie valens;music;1959
+1599;across the wide missouri;rock;the kingston trio;world/life;1959
+1600;they call the wind maria;rock;the kingston trio;music;1959
+1601;all my sorrows;rock;the kingston trio;sadness;1959
+1602;poor boy;rock;elvis presley;sadness;1959
+1603;my wish came true;rock;elvis presley;sadness;1959
+1604;remember the alamo;rock;the kingston trio;world/life;1959
+1605;everglades;rock;the kingston trio;violence;1960
+1606;blue eyes crying in the rain;rock;gene vincent;sadness;1960
+1607;just for you;rock;sam cooke;world/life;1960
+1608;loving you (from passion);rock;peabo bryson;sadness;1960
+1609;with her head tucked underneath her arm;rock;the kingston trio;violence;1960
+1610;joshua fit the battle;rock;elvis presley;violence;1960
+1611;wooden heart;rock;elvis presley;sadness;1960
+1612;it feels so right;rock;elvis presley;night/time;1960
+1613;i believe in the man in the sky;rock;elvis presley;world/life;1960
+1614;his hand in mine;rock;elvis presley;romantic;1960
+1615;happy birthday, sweet sixteen;rock;neil sedaka;romantic;1960
+1616;such a night;rock;elvis presley;romantic;1960
+1617;fever;rock;elvis presley;romantic;1960
+1618;pocketful of rainbows;rock;elvis presley;romantic;1960
+1619;in my father's house;rock;elvis presley;world/life;1960
+1620;tonight's all right for love;rock;elvis presley;night/time;1960
+1621;tonight is so right for love;rock;elvis presley;night/time;1960
+1622;mumblin' guitar;rock;bo diddley;obscene;1960
+1623;the last letter;rock;wanda jackson;world/life;1961
+1624;gringo;rock;the ventures;obscene;1961
+1625;trambone;rock;the ventures;obscene;1961
+1626;i may never get to heaven;rock;wanda jackson;romantic;1961
+1627;lonely heart;rock;the ventures;sadness;1961
+1628;lonesome town;rock;the ventures;sadness;1961
+1629;who shot sam;rock;wanda jackson;violence;1961
+1630;why i'm walkin';rock;wanda jackson;obscene;1961
+1631;slippin' and slidin';rock;wanda jackson;night/time;1961
+1632;senora;rock;the kingston trio;world/life;1961
+1633;oh, sail away;rock;the kingston trio;sadness;1961
+1634;when my love was here;rock;the kingston trio;music;1961
+1635;oh, yes, oh!;rock;the kingston trio;night/time;1961
+1636;coast of california;rock;the kingston trio;violence;1961
+1637;coming from the mountains;rock;the kingston trio;music;1961
+1638;exotic two;rock;sun ra;obscene;1961
+1639;white riot;rock;the clash;violence;1961
+1640;armagideon time;rock;the clash;night/time;1961
+1641;there's a party goin' on;rock;wanda jackson;obscene;1961
+1642;one last kiss;rock;bobby vee;romantic;1961
+1643;tongue tied;rock;wanda jackson;violence;1961
+1644;(ghost) riders in the sky;rock;the ventures;violence;1961
+1645;i'm coming home;rock;elvis presley;music;1961
+1646;give me the right;rock;elvis presley;night/time;1961
+1647;judy;rock;elvis presley;romantic;1961
+1648;i slipped, i stumbled, i fell;rock;elvis presley;sadness;1961
+1649;put the blame on me;rock;elvis presley;sadness;1961
+1650;can't help falling in love;rock;elvis presley;sadness;1961
+1651;island of love;rock;elvis presley;music;1961
+1652;no more;rock;elvis presley;sadness;1961
+1653;hawaiian sunset;rock;elvis presley;night/time;1961
+1654;ku-u-i-po;rock;elvis presley;world/life;1961
+1655;right or wrong;rock;wanda jackson;night/time;1961
+1656;hawaiian wedding song;rock;elvis presley;music;1961
+1657;almost always true;rock;elvis presley;romantic;1961
+1658;man we had a party;rock;wanda jackson;obscene;1961
+1659;starting today;rock;elvis presley;world/life;1961
+1660;in your arms;rock;elvis presley;romantic;1961
+1661;gently;rock;elvis presley;romantic;1961
+1662;sticks and stones;rock;wanda jackson;obscene;1961
+1663;it's a sin;rock;elvis presley;sadness;1961
+1664;away rio;rock;the kingston trio;sadness;1962
+1665;i got a letter (this morning);rock;john lee hooker;feelings;1962
+1666;poor ellen smith;rock;the kingston trio;violence;1962
+1667;long black veil;rock;the kingston trio;violence;1962
+1668;chiquita mia;rock;chris montez;music;1962
+1669;the night i cried;rock;brian hyland;sadness;1962
+1670;don't gild the lily, lily;rock;del shannon;obscene;1962
+1671;new day;rock;sun ra;obscene;1962
+1672;china gates;rock;sun ra;sadness;1962
+1673;miss marmelstein;rock;barbra streisand;feelings;1962
+1674;yesterday;rock;john lennon;world/life;1962
+1675;kiss me quick;rock;elvis presley;romantic;1962
+1676;i'm yours;rock;elvis presley;romantic;1962
+1677;something blue;rock;elvis presley;sadness;1962
+1678;mexico;rock;the ventures;violence;1962
+1679;l-o-n-e-l-y;rock;bobby vinton;sadness;1962
+1680;marguerita;rock;elvis presley;romantic;1963
+1681;one broken heart for sale;rock;elvis presley;sadness;1963
+1682;mexico;rock;elvis presley;world/life;1963
+1683;i'm falling in love tonight;rock;elvis presley;sadness;1963
+1684;ain't gonna grieve;rock;bob dylan;violence;1963
+1685;keepin' out of mischief now;rock;barbra streisand;obscene;1963
+1686;my honey's loving arms;rock;barbra streisand;romantic;1963
+1687;happy ending;rock;elvis presley;world/life;1963
+1688;cotton candy land;rock;elvis presley;obscene;1963
+1689;try to remember;rock;the kingston trio;world/life;1963
+1690;happy days are here again;rock;barbra streisand;music;1963
+1691;fame and fortune;rock;elvis presley;romantic;1963
+1692;surrender;rock;elvis presley;romantic;1963
+1693;not a second time;rock;the beatles;world/life;1963
+1694;all i've got to do;rock;the beatles;music;1963
+1695;you really got a hold on me;rock;the beatles;romantic;1963
+1696;till there was you;rock;the beatles;music;1963
+1697;all my loving;rock;the beatles;romantic;1963
+1698;devil in her heart;rock;the beatles;sadness;1963
+1699;a taste of honey;rock;the beatles;romantic;1963
+1700;hold me tight;rock;the beatles;romantic;1963
+1701;it's now or never;rock;elvis presley;romantic;1963
+1702;p.s. i love you;rock;the beatles;music;1963
+1703;please mister postman;rock;the beatles;night/time;1963
+1704;fun in acapulco;rock;elvis presley;night/time;1963
+1705;i feel so bad;rock;elvis presley;obscene;1963
+1706;roustabout;rock;elvis presley;obscene;1964
+1707;kissin' cousins;rock;elvis presley;night/time;1964
+1708;you do something to me;rock;the kinks;sadness;1964
+1709;grown up wrong;rock;the rolling stones;world/life;1964
+1710;long tall sally;rock;the kinks;night/time;1964
+1711;ramblin' boy;rock;tom paxton;music;1964
+1712;snowblind;rock;system of a down;violence;1964
+1713;tender feeling;rock;elvis presley;romantic;1964
+1714;knock on the door;rock;phil ochs;violence;1964
+1715;to susan on the west coast waiting;rock;donovan;violence;1964
+1716;big love, big heartache;rock;elvis presley;sadness;1964
+1717;some day soon;rock;ian & sylvia;music;1964
+1718;the nightingale;rock;the dubliners;music;1964
+1719;once is enough;rock;elvis presley;world/life;1964
+1720;anyone (could fall in love with you);rock;elvis presley;sadness;1964
+1721;ballad of william worthy;rock;phil ochs;world/life;1964
+1722;time is on my side;rock;the rolling stones;night/time;1964
+1723;what you're doing;rock;the beatles;sadness;1964
+1724;not fade away;rock;the rolling stones;sadness;1964
+1725;i'll follow the sun;rock;the beatles;world/life;1964
+1726;and i love her;rock;the beatles;romantic;1964
+1727;all day and all of the night;rock;the kinks;night/time;1964
+1728;things we said today;rock;the beatles;world/life;1964
+1729;i'll cry instead;rock;the beatles;sadness;1964
+1730;words of love;rock;the beatles;romantic;1964
+1731;any time at all;rock;the beatles;night/time;1964
+1732;tell me why;rock;the beatles;sadness;1964
+1733;i'll be back;rock;the beatles;sadness;1964
+1734;good times, bad times;rock;the rolling stones;world/life;1964
+1735;just can't go to sleep;rock;the kinks;night/time;1964
+1736;the twilight zone;rock;the ventures;violence;1964
+1737;susie q;rock;the rolling stones;sadness;1964
+1738;universal soldier;rock;buffy sainte-marie;violence;1964
+1739;the good's gone;rock;the who;feelings;1965
+1740;heart of stone;rock;the rolling stones;sadness;1965
+1741;you never wanted me;rock;jackson c. frank;sadness;1965
+1742;got my feet on the ground;rock;the kinks;violence;1965
+1743;who'll be the next in line;rock;the kinks;night/time;1965
+1744;anyway anyhow anywhere;rock;the who;world/life;1965
+1745;puppet on a string;rock;elvis presley;romantic;1965
+1746;pain in my heart;rock;the rolling stones;sadness;1965
+1747;off the hook;rock;the rolling stones;night/time;1965
+1748;your cheatin' heart;rock;elvis presley;sadness;1965
+1749;such a shame;rock;the kinks;world/life;1965
+1750;gotta get the first plane home;rock;the kinks;music;1965
+1751;the men behind the guns;rock;phil ochs;violence;1965
+1752;ring the bells;rock;the kinks;music;1965
+1753;that's how strong my love is;rock;the rolling stones;feelings;1965
+1754;don't ever change;rock;the kinks;world/life;1965
+1755;summer kisses, winter tears;rock;elvis presley;sadness;1965
+1756;yellow walls;rock;jackson c. frank;violence;1965
+1757;so long;rock;the kinks;night/time;1965
+1758;look what you've done;rock;the rolling stones;sadness;1965
+1759;it's not true;rock;the who;world/life;1965
+1760;tired of waiting for you;rock;the kinks;night/time;1965
+1761;till the end of the day;rock;the kinks;romantic;1965
+1762;dedicated follower of fashion;rock;the kinks;obscene;1965
+1763;i've just seen a face;rock;the beatles;world/life;1965
+1764;you've got to hide your love away;rock;the beatles;violence;1965
+1765;in my life;rock;the beatles;world/life;1965
+1766;the last time;rock;the rolling stones;night/time;1965
+1767;the word;rock;the beatles;music;1965
+1768;wait;rock;the beatles;sadness;1965
+1769;play with fire;rock;the rolling stones;obscene;1965
+1770;the night before;rock;the beatles;night/time;1965
+1771;i go to sleep;rock;the kinks;night/time;1965
+1772;yesterday;rock;the beatles;world/life;1965
+1773;never;rock;moving pictures;sadness;1965
+1774;where have all the good times gone;rock;the kinks;feelings;1965
+1775;night-time;rock;the strangeloves;night/time;1965
+1776;good times;rock;the rolling stones;night/time;1965
+1777;fancy;rock;the kinks;world/life;1966
+1778;i am waiting;rock;the rolling stones;night/time;1966
+1779;gimme shelter;rock;the rolling stones;sadness;1966
+1780;party line;rock;the kinks;obscene;1966
+1781;doncha bother me;rock;the rolling stones;violence;1966
+1782;lady jane;rock;the rolling stones;world/life;1966
+1783;heat wave;rock;the who;sadness;1966
+1784;time has come today;rock;the chambers brothers;night/time;1966
+1785;too much on my mind;rock;the kinks;night/time;1966
+1786;sympathy for the devil;rock;the rolling stones;violence;1966
+1787;a quick one, while he's away;rock;the who;music;1966
+1788;good day sunshine;rock;the beatles;feelings;1966
+1789;for no one;rock;the beatles;sadness;1966
+1790;yellow submarine;rock;the beatles;world/life;1966
+1791;sunny afternoon;rock;the kinks;world/life;1966
+1792;eleanor rigby;rock;the beatles;sadness;1966
+1793;and your bird can sing;rock;the beatles;music;1966
+1794;here, there and everywhere;rock;the beatles;world/life;1966
+1795;tomorrow never knows;rock;the beatles;world/life;1966
+1796;dead end street;rock;the kinks;violence;1966
+1797;(we ain't got) nothin' yet;rock;the blues magoos;obscene;1966
+1798;ghetto music;hip hop;boogie down productions;music;1989
+1799;jack of spades;hip hop;boogie down productions;obscene;1989
+1800;the style you haven't done yet;hip hop;boogie down productions;obscene;1989
+1801;gimme dat (woy);hip hop;boogie down productions;obscene;1989
+1802;the blueprint;hip hop;boogie down productions;obscene;1989
+1803;breath control;hip hop;boogie down productions;obscene;1989
+1804;the tables are turnin';hip hop;einstein;obscene;1990
+1805;all the blacks;hip hop;the original squad;sadness;1990
+1806;bite of love;hip hop;asher d;world/life;1990
+1807;we are the champions;hip hop;asher d;obscene;1990
+1808;rhymes to kill;hip hop;chris biscuit;obscene;1990
+1809;hip hop junkies;hip hop;nice & smooth;obscene;1991
+1810;k.i.s.s. (keep it simple stupid);hip hop;diamond & the psychotic neurotics;obscene;1992
+1811;"shut the ""*!*!"" up";hip hop;diamond & the psychotic neurotics;violence;1992
+1812;lunchroom chatter;hip hop;diamond & the psychotic neurotics;obscene;1992
+1813;last car on the 2 train;hip hop;diamond & the psychotic neurotics;obscene;1992
+1814;intro;hip hop;lighter shade of brown;obscene;1992
+1815;a view from the underground;hip hop;diamond & the psychotic neurotics;obscene;1992
+1816;"comments from big ""l"" and showbiz";hip hop;diamond & the psychotic neurotics;obscene;1992
+1817;live and die for hip hop;hip hop;kris kross;obscene;1992
+1818;what you seek;hip hop;diamond & the psychotic neurotics;obscene;1992
+1819;step to me;hip hop;diamond & the psychotic neurotics;obscene;1992
+1820;hip hop lover;hip hop;en vogue;obscene;1992
+1821;best kept secret;hip hop;diamond & the psychotic neurotics;obscene;1992
+1822;i went for mine;hip hop;diamond & the psychotic neurotics;obscene;1992
+1823;hip hop locos;hip hop;lighter shade of brown;obscene;1992
+1824;stunts, blunts, & hip hop;hip hop;diamond & the psychotic neurotics;obscene;1992
+1825;check it out;hip hop;lighter shade of brown;obscene;1992
+1826;it don't stop (hip hop classic);hip hop;kris kross;obscene;1993
+1827;return of the hip hop freaks;hip hop;nice & smooth;obscene;1994
+1828;hip hop barber shop request line;hip hop;xscape;obscene;1995
+1829;tryin' to get my groove on;hip hop;trina;obscene;1996
+1830;ya ke'sto no es pop, es hip-hop/rap;hip hop;frank t;sadness;1996
+1831;feel my flow;hip hop;black noise;violence;1998
+1832;fast life;hip hop;ghostface killah;world/life;1998
+1833;play it cool;hip hop;brand nubian;obscene;1998
+1834;so-called coloured folks;hip hop;black noise;obscene;1998
+1835;can you hear me;hip hop;fabolous;obscene;1999
+1836;get ready;hip hop;mase;night/time;1999
+1837;where the party at;hip hop;jagged edge;obscene;1999
+1838;there it is;hip hop;ginuwine;obscene;1999
+1839;srm (sindicato rima maestra);hip hop;sindicato argentino del hip hop;obscene;2000
+1840;the next episode;hip hop;dr. dre;obscene;2000
+1841;na ma se que cantar;hip hop;payo malo;sadness;2001
+1842;intro;hip hop;dj tomekk;obscene;2001
+1843;pa mi gente;hip hop;fill black;world/life;2001
+1844;well known asshole;hip hop;obie trice;obscene;2001
+1845;this is my hip hop;hip hop;la fossa;obscene;2001
+1846;you've gotta believe;hip hop;lovebug starski;world/life;2001
+1847;starski (live at the disco fever);hip hop;lovebug starski;obscene;2001
+1848;times own;hip hop;mood ruff;violence;2002
+1849;la forza del mondo;hip hop;chef ragoo;music;2002
+1850;homies;hip hop;slow pain;obscene;2002
+1851;karma;hip hop;mr. lil one;obscene;2002
+1852;f**k the haters;hip hop;lil cuete;sadness;2002
+1853;scribble on a clean surface;hip hop;aceyalone;obscene;2002
+1854;blink blink;hip hop;aceyalone;obscene;2002
+1855;jack of all trades;hip hop;aceyalone;violence;2002
+1856;future rockers;hip hop;aceyalone;world/life;2002
+1857;trust;hip hop;krs-one;world/life;2002
+1858;never give up;hip hop;krs-one;obscene;2002
+1859;run and hide;hip hop;hip-hop wieners;sadness;2002
+1860;rappers on deck;hip hop;aceyalone;obscene;2002
+1861;love of my life (an ode to hip hop);hip hop;erykah badu;world/life;2002
+1862;hard rimes;hip hop;hip-hop wieners;obscene;2002
+1863;veren na hip-hop;hip hop;x-team;sadness;2002
+1864;san diego;hip hop;lil rob;obscene;2003
+1865;latin rollers;hip hop;slow pain;sadness;2003
+1866;saturday night ballin;hip hop;slow pain;obscene;2003
+1867;the crow;hip hop;mr. lil one;obscene;2003
+1868;hip hop adictos;hip hop;sabotaje mexica;obscene;2003
+1869;steel dragon;hip hop;l.e.g.a.c.y.;obscene;2004
+1870;hit man;hip hop;spoonie gee;obscene;2004
+1871;morning light;hip hop;j-kwon;obscene;2004
+1872;underwear;hip hop;j-kwon;obscene;2004
+1873;they ask me;hip hop;j-kwon;obscene;2004
+1874;b boys;hip hop;umut ertek;obscene;2004
+1875;capital d;hip hop;dany dan;obscene;2004
+1876;you & me;hip hop;j-kwon;obscene;2004
+1877;show your ass;hip hop;j-kwon;obscene;2004
+1878;street hop;hip hop;erick sermon;obscene;2004
+1879;the godfather;hip hop;spoonie gee;obscene;2004
+1880;thrift shop hip hop;hip hop;neanderthal youth;world/life;2004
+1881;did you come to party;hip hop;spoonie gee;obscene;2004
+1882;star spangled banner;hip hop;miri ben-ari;violence;2005
+1883;miss melody;hip hop;miri ben-ari;obscene;2005
+1884;el dinero;hip hop;sindicato argentino del hip hop;violence;2005
+1885;"tell the devil ""ha!""";hip hop;krs-one;violence;2005
+1886;one harmony;hip hop;hell razah;violence;2005
+1887;do you;hip hop;heather b;obscene;2005
+1888;get down (remix) [feat. q-tip];hip hop;craig mack;obscene;2005
+1889;my hip hop;hip hop;black noise;obscene;2005
+1890;maracatu atômico (trip hop);hip hop;chico science;sadness;2005
+1891;it's no other than..;hip hop;canibus;obscene;2005
+1892;hemmin' heads;hip hop;mic geronimo;violence;2005
+1893;empieza la revolucion;hip hop;skool 77;violence;2006
+1894;f**k y'all;hip hop;pastor troy;obscene;2006
+1895;ballers;hip hop;slim thug;obscene;2006
+1896;let's ride;hip hop;lil' flip;obscene;2006
+1897;where are they now;hip hop;nas;obscene;2006
+1898;in your area rmx;hip hop;planet asia & peanut butter wolf;violence;2006
+1899;can't forget about you;hip hop;nas;world/life;2006
+1900;shine on;hip hop;nas;obscene;2006
+1901;ich bin deutscher hip hop ii (feat. olli banjo & megaloh);hip hop;sentino;violence;2006
+1902;freestyle;hip hop;tormento;obscene;2006
+1903;shed so many tears;hip hop;mobb deep;obscene;2006
+1904;i am;hip hop;e-40;violence;2007
+1905;all my n*gg*s;hip hop;method man;obscene;2007
+1906;naw meen;hip hop;baby boy da prince;obscene;2007
+1907;diamonds;hip hop;slim thug;obscene;2007
+1908;hoggs on da grind;hip hop;slim thug;obscene;2007
+1909;check on it;hip hop;slim thug;obscene;2007
+1910;wood grain wheel;hip hop;slim thug;obscene;2007
+1911;pillz;hip hop;gucci mane;obscene;2007
+1912;hit em;hip hop;zion i;obscene;2007
+1913;hold it down feat. method man;hip hop;dj jazzy jeff;obscene;2007
+1914;this life;hip hop;snoop dogg;obscene;2007
+1915;stress y'all;hip hop;m.o.p.;obscene;2007
+1916;midwest invasion;hip hop;twista;obscene;2007
+1917;it's the game;hip hop;the game;sadness;2007
+1918;hip hop, pt. 1;hip hop;jht;obscene;2007
+1919;think big (feat. b.i.g. & lord tariq);hip hop;pudgee;obscene;2007
+1920;freestyle;hip hop;jadakiss;obscene;2007
+1921;still strugglin';hip hop;raekwon;obscene;2007
+1922;hip hop;hip hop;joell ortiz;obscene;2007
+1923;this is the way i live;hip hop;baby boy da prince;obscene;2007
+1924;still struggling;hip hop;raekwon;obscene;2007
+1925;get at me;hip hop;remy ma;obscene;2007
+1926;the victory;hip hop;krs-one;world/life;2007
+1927;dangerous;hip hop;cormega;obscene;2007
+1928;have a party;hip hop;mobb deep;obscene;2007
+1929;out of control;hip hop;mobb deep;obscene;2007
+1930;we thugs;hip hop;ice cube;obscene;2007
+1931;still tippin;hip hop;slim thug;obscene;2007
+1932;nothing new;hip hop;krs-one;obscene;2007
+1933;brand new funk 2k7 feat. peedi crakk;hip hop;dj jazzy jeff;obscene;2007
+1934;pimpin';hip hop;tony yayo;obscene;2007
+1935;the teacha's back;hip hop;krs-one;obscene;2007
+1936;this is what it is;hip hop;krs-one;world/life;2007
+1937;i was there;hip hop;krs-one;obscene;2007
+1938;over 30;hip hop;krs-one;obscene;2007
+1939;party time;hip hop;kurtis blow;obscene;2008
+1940;if i ruled the world;hip hop;kurtis blow;world/life;2008
+1941;the breaks;hip hop;kurtis blow;sadness;2008
+1942;ice ice baby (re-recorded version);hip hop;vanilla ice;obscene;2008
+1943;hip- hop (out in the dark);hip hop;dj drama;music;2008
+1944;buffalo soldier;hip hop;vanilla ice;violence;2008
+1945;ice ice baby (club crasher mix);hip hop;vanilla ice;obscene;2008
+1946;choir song;hip hop;nas;obscene;2008
+1947;fantastic voyage (lil stayne mix);hip hop;coolio;obscene;2008
+1948;i got a man (re-recorded);hip hop;positive k;obscene;2008
+1949;qui a dit que le rap était dead ?;hip hop;seth gueko;violence;2008
+1950;ghost stories;hip hop;hmd;obscene;2008
+1951;dear hip hop;hip hop;ll cool j;obscene;2008
+1952;g-shit;hip hop;ice cube;obscene;2008
+1953;club on lock;hip hop;the sugarhill gang;obscene;2008
+1954;shut em down;hip hop;supaman;obscene;2008
+1955;take notes;hip hop;supaman;violence;2008
+1956;ice ice baby;hip hop;vanilla ice;obscene;2008
+1957;hip hop;hip hop;krs-one;obscene;2008
+1958;white lines (long version) [re-recorded];hip hop;grandmaster flash & the furious five;violence;2008
+1959;gangsta's paradise (re-recorded version);hip hop;coolio;world/life;2008
+1960;i do it for hip hop;hip hop;ludacris;obscene;2008
+1961;roxanne's revenge (re-recorded);hip hop;roxanne shante;obscene;2008
+1962;jump around;hip hop;vanilla ice;world/life;2008
+1963;hip-hop drunkies;hip hop;tha alkaholiks;obscene;2008
+1964;hip hop;hip hop;trip lee;obscene;2008
+1965;supersonic (re-recorded);hip hop;j.j. fad;obscene;2008
+1966;white lines;hip hop;grandmaster melle mel;violence;2008
+1967;the quan;hip hop;foxy brown;obscene;2008
+1968;jam on it (re-recorded);hip hop;newcleus;obscene;2008
+1969;clap ta dis;hip hop;supaman;sadness;2008
+1970;skillz;hip hop;super sonic;violence;2009
+1971;do the stevie;hip hop;j-kwon;violence;2009
+1972;jockin';hip hop;j-kwon;obscene;2009
+1973;hater's get lost;hip hop;j-kwon;obscene;2009
+1974;tipsy (j skillz remix) [radio edit];hip hop;j-kwon;obscene;2009
+1975;i'm shinin;hip hop;j-kwon;obscene;2009
+1976;son of a gun;hip hop;illvibe;sadness;2009
+1977;she got it;hip hop;night shield;obscene;2009
+1978;get ya block on;hip hop;night shield;sadness;2009
+1979;the night away;hip hop;night shield;sadness;2009
+1980;they call this (hip hop);hip hop;classified;obscene;2009
+1981;live or die;hip hop;loon;obscene;2009
+1982;tipsy 09 (radio edit);hip hop;j-kwon;obscene;2009
+1983;close your eyes;hip hop;j-kwon;obscene;2009
+1984;money machine;hip hop;ying yang twins;violence;2009
+1985;supersonic (electrolicious remix);hip hop;j.j. fad;obscene;2009
+1986;how ya like me now (re-recorded / remastered);hip hop;kool moe dee;obscene;2009
+1987;i got it made (re-recorded / remastered);hip hop;special ed;obscene;2009
+1988;deglu xel;hip hop;sen kumpa;violence;2009
+1989;intro;hip hop;african underground;obscene;2009
+1990;i'm not havin’ it (re-recorded / remastered);hip hop;positive k;music;2009
+1991;i go to work (re-recorded);hip hop;kool moe dee;obscene;2009
+1992;never forget;hip hop;shiffai;sadness;2009
+1993;i got it made (re-recorded/remasterd);hip hop;special ed;obscene;2009
+1994;g-s**t;hip hop;wc;obscene;2009
+1995;hip hop esta vivo;hip hop;hata proof records presents mr nava;sadness;2009
+1996;six million ways to die;hip hop;funkmaster flex;obscene;2009
+1997;a brief intermission (skit);hip hop;"royce da 5'9""";obscene;2009
+1998;i got cha opin;hip hop;black moon;violence;2009
+1999;appel local;hip hop;83;violence;2009
+2000;turn up the bass;hip hop;tyree cooper;obscene;2009
+2001;count for nothing;hip hop;"royce da 5'9""";obscene;2009
+2002;gangsta;hip hop;"royce da 5'9""";obscene;2009
+2003;hood love;hip hop;"royce da 5'9""";obscene;2009
+2004;my own planet;hip hop;"royce da 5'9""";obscene;2009
+2005;far away;hip hop;"royce da 5'9""";obscene;2009
+2006;something 2 ride 2;hip hop;"royce da 5'9""";obscene;2009
+2007;i hip hop;hip hop;thundamentals;violence;2009
+2008;hip hop's cool again;hip hop;oddisee;obscene;2009
+2009;bad boy (feat. jungle rock jr.);hip hop;"royce da 5'9""";obscene;2009
+2010;tipsy 09;hip hop;j-kwon;obscene;2009
+2011;let's get it on;hip hop;smif-n-wessun;obscene;2009
+2012;i'm fresh (feat. mr. porter);hip hop;"royce da 5'9""";obscene;2009
+2013;street hop 2010;hip hop;"royce da 5'9""";obscene;2009
+2014;move, shake, drop;hip hop;dj laz;obscene;2009
+2015;gun harmonizing (feat. crooked i);hip hop;"royce da 5'9""";obscene;2009
+2016;dinner time (feat. busta rhymes);hip hop;"royce da 5'9""";obscene;2009
+2017;who got the props;hip hop;black moon;obscene;2009
+2018;on the run;hip hop;"royce da 5'9""";obscene;2009
+2019;buck 'em down;hip hop;black moon;obscene;2009
+2020;bucktown;hip hop;smif-n-wessun;obscene;2009
+2021;5;hip hop;don bigg;obscene;2009
+2022;soldier (feat. kid vishis);hip hop;"royce da 5'9""";obscene;2009
+2023;mine in thiz (feat. mr. porter);hip hop;"royce da 5'9""";obscene;2009
+2024;thing for your girlfriend;hip hop;"royce da 5'9""";obscene;2009
+2025;soldier;hip hop;"royce da 5'9""";obscene;2009
+2026;leçon 3;hip hop;83;obscene;2009
+2027;pretres;hip hop;gane rimatore;obscene;2009
+2028;slusaj ovo;hip hop;gane rimatore;world/life;2009
+2029;83;hip hop;83;obscene;2009
+2030;keep on movin';hip hop;83;violence;2009
+2031;return of the iron man;hip hop;ghostface killah;obscene;2009
+2032;haut de gamme;hip hop;83;world/life;2009
+2033;hip hop rek;hip hop;sister fa;violence;2009
+2034;birth of hip hop;hip hop;diafrix;obscene;2009
+2035;hip-hop blues;hip hop;diaz;obscene;2009
+2036;hip hop;hip hop;more;obscene;2009
+2037;hip hop;hip hop;damos;obscene;2009
+2038;la legge del più forte;hip hop;gli inquilini;violence;2010
+2039;i got it made;hip hop;special ed;obscene;2010
+2040;express yourself;hip hop;n.w.a.;obscene;2010
+2041;you gots to chill;hip hop;epmd;obscene;2010
+2042;le prix à payer;hip hop;stezo;violence;2010
+2043;sembrava un gioco;hip hop;cor veleno;violence;2010
+2044;how you like me now (re-recorded / remastered);hip hop;special ed;violence;2010
+2045;it takes two (re-recorded);hip hop;rob base;obscene;2010
+2046;w/s foe life;hip hop;mack 10;obscene;2010
+2047;x&o (feat. blowsight);hip hop;pato pooh;violence;2010
+2048;in fissa per il rap;hip hop;piotta;world/life;2010
+2049;hip-hop black ops;hip hop;canibus;violence;2010
+2050;hold det nede (med dirty definite);hip hop;tungtvann;violence;2010
+2051;trueschool;hip hop;prop dylan;obscene;2010
+2052;for my disappointing hip hop heroes;hip hop;ceschi;violence;2010
+2053;it's bigger than hip hop uk;hip hop;dead prez;obscene;2010
+2054;keep it movin' (ft. p.o.s.);hip hop;mod sun;sadness;2010
+2055;no girlfriend;hip hop;mod sun;obscene;2010
+2056;i killed hip hop;hip hop;lil b;obscene;2010
+2057;opos lioni to keri;hip hop;razastarr;world/life;2010
+2058;puro;hip hop;freeman;night/time;2010
+2059;rescaper;hip hop;freeman;obscene;2010
+2060;fan first;hip hop;trainspotters;obscene;2010
+2061;"street hop (feat. royce da 5'9"")";hip hop;kid vishis;obscene;2010
+2062;my black nina;hip hop;rza;obscene;2011
+2063;ruff ryders' anthem (re-recorded);hip hop;dmx;obscene;2011
+2064;where the hood at (re-recorded / remastered);hip hop;dmx;obscene;2011
+2065;party up (up in here) (re-recorded / remastered);hip hop;dmx;obscene;2011
+2066;remenber us;hip hop;nje;sadness;2011
+2067;facebookprofil;hip hop;marc reis;world/life;2011
+2068;bill murray;hip hop;sweatshop union;obscene;2011
+2069;no diggity (re-recorded / remastered);hip hop;blackstreet;obscene;2011
+2070;ruff ryders' anthem (re-recorded / remastered);hip hop;dmx;obscene;2011
+2071;this is how we do it (re-recorded / remastered);hip hop;montell jordan;obscene;2011
+2072;what's my name? (re-recorded / remastered);hip hop;dmx;obscene;2011
+2073;this is how we do it (re-recorded);hip hop;montell jordan;obscene;2011
+2074;my prerogative (re-recorded);hip hop;bobby brown;obscene;2011
+2075;party up (up in here) [re-recorded];hip hop;dmx;obscene;2011
+2076;i come off;hip hop;young mc;obscene;2011
+2077;where the party at? (re-recorded) [remastered];hip hop;jagged edge;obscene;2011
+2078;hip hop;hip hop;baron samedi;sadness;2011
+2079;best kept secret;hip hop;diamond d;obscene;2011
+2080;livin' astro;hip hop;kool keith;obscene;2011
+2081;on and on;hip hop;shyheim;obscene;2011
+2082;t.o.n.y. (top of new york);hip hop;capone-n-noreaga;obscene;2011
+2083;are you listening?;hip hop;j. rawls;obscene;2011
+2084;the ghost of hip hop's past;hip hop;canibus;violence;2011
+2085;no diggity;hip hop;blackstreet;obscene;2011
+2086;ain't a damn thang changed;hip hop;wc;obscene;2011
+2087;gurls wit da boom;hip hop;proof;obscene;2011
+2088;i got a man (re-recorded) [remastered];hip hop;positive k;obscene;2011
+2089;don't talk (feat. gioman, killacat);hip hop;turi;sadness;2011
+2090;not taking you back (feat. rapsody);hip hop;heather victoria;obscene;2011
+2091;black august (dark);hip hop;killah priest;violence;2011
+2092;come with me;hip hop;killah priest;violence;2011
+2093;musifixtion;hip hop;killah priest;violence;2011
+2094;when i'm writing;hip hop;killah priest;obscene;2011
+2095;do the damn thing;hip hop;killah priest;obscene;2011
+2096;time;hip hop;killah priest;violence;2011
+2097;danger zone;hip hop;epmd;obscene;2011

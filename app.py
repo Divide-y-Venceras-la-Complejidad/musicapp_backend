@@ -1,7 +1,7 @@
 from flask import  Flask, jsonify
-from mysql_connection import getMusicFromDatabase, getMusicFromDatabaseById, getMusicRangeFromDatabase
 from flask_cors import CORS, cross_origin
 from music_algorithm import executeMusicAlgorithm
+from music_mapping import getMusicFromMapAPI, getMusicRangeFromMapAPI, getMusicFromMapByIdAPI
 
 
 app = Flask(__name__)
@@ -10,7 +10,7 @@ CORS(app)
 @app.route('/musics')
 @cross_origin()
 def musics():
-    musics = getMusicFromDatabase()
+    musics = getMusicFromMapAPI()
     jsonMusics = []
     for music in musics:
         jsonMusics.append(music.toJson())
@@ -19,7 +19,7 @@ def musics():
 @app.route('/musics/<int:begin>/<int:end>')
 @cross_origin()
 def limit_musics(begin, end):
-    musics = getMusicRangeFromDatabase(begin, end)
+    musics = getMusicRangeFromMapAPI(begin, end)
     jsonMusics = []
     for music in musics:
         jsonMusics.append(music.toJson())
@@ -32,7 +32,7 @@ def get_music_by_id_and_filter(music_id, filter_type):
     relatedMusicsId = executeMusicAlgorithm(music_id, filter_type)
     if relatedMusicsId:
         relatedMusicsId = [id + 1 for id in relatedMusicsId]
-        musics = getMusicFromDatabaseById(relatedMusicsId)
+        musics = getMusicFromMapByIdAPI(relatedMusicsId)
         musics.sort(key=lambda x: relatedMusicsId.index(x.id))
         jsonMusics = []
         for music in musics:
