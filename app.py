@@ -31,7 +31,6 @@ def limit_musics(begin, end):
 def get_music_by_id_and_filter(music_id, filter_type):
     relatedMusicsId = executeMusicAlgorithm(music_id, filter_type)
     if relatedMusicsId:
-        relatedMusicsId = [id + 1 for id in relatedMusicsId]
         musics = getMusicFromMapByIdAPI(relatedMusicsId)
         musics.sort(key=lambda x: relatedMusicsId.index(x.id))
         jsonMusics = []
@@ -41,6 +40,15 @@ def get_music_by_id_and_filter(music_id, filter_type):
     else:
         return jsonify({'error': 'Music not found'})
 
+#get music by id
+@app.route('/musics/<int:music_id>')
+@cross_origin()
+def get_music_by_id(music_id):
+    music = getMusicFromMapByIdAPI([music_id])
+    if music:
+        return jsonify(music[0].toJson())
+    else:
+        return jsonify({'error': 'Music not found'})
 
 if __name__ == '__main__':
     app.run(debug=True)
